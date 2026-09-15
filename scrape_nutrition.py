@@ -1,4 +1,5 @@
 import json
+import re
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
@@ -132,9 +133,16 @@ def build_table(rows):
 
 
 def _to_float(v):
+    # Site values come back as e.g. "430Kcal" or "21.7g", not bare numbers,
+    # so strip units and grab the leading numeric portion.
+    if v is None:
+        return None
+    match = re.search(r"[-+]?\d*\.?\d+", str(v))
+    if not match:
+        return None
     try:
-        return float(v)
-    except (TypeError, ValueError):
+        return float(match.group())
+    except ValueError:
         return None
 
 
