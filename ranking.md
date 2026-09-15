@@ -4,16 +4,16 @@
 
 | # | Meal | Calories | Protein (g) | Protein/Calorie |
 |---|------|----------|-------------|------------------|
-| 1 | (Keto) Beef Lasagna | 510 | 52 | 52.000 |
-| 2 | Chicken and Sweet Potato Shephards Pie | 446 | 44 | 44.100 |
-| 3 | (Keto) Grilled Chicken Fajita Pasta | 450 | 42 | 41.900 |
-| 4 | (Keto) Khao Soi | 443 | 40 | 39.800 |
-| 5 | Creamy Tuscan Chicken with Egg Noodles and Roasted Green Beans | 860 | 69 | 69.000 |
-| 6 | Honey Mustard Chicken Sandwich | 430 | 34 | 34.000 |
-| 7 | Jalapeno Popper Chicken with Potatoes & Veggies | 621 | 49 | 49.000 |
-| 8 | Mango Habanero Chicken Burrito Bowl | 710 | 56 | 56.000 |
-| 9 | Chicken Chipotle Burrito Wrap | 520 | 41 | 41.000 |
-| 10 | Lomo Saltado with Cilantro Rice and Aji Verde | 770 | 60 | 60.000 |
+| 1 | (Keto) Beef Lasagna | 510 | 52 | 0.102 |
+| 2 | Chicken and Sweet Potato Shephards Pie | 446 | 44 | 0.099 |
+| 3 | (Keto) Grilled Chicken Fajita Pasta | 450 | 42 | 0.093 |
+| 4 | (Keto) Khao Soi | 443 | 40 | 0.090 |
+| 5 | Creamy Tuscan Chicken with Egg Noodles and Roasted Green Beans | 860 | 69 | 0.080 |
+| 6 | Honey Mustard Chicken Sandwich | 430 | 34 | 0.079 |
+| 7 | Jalapeno Popper Chicken with Potatoes & Veggies | 621 | 49 | 0.079 |
+| 8 | Mango Habanero Chicken Burrito Bowl | 710 | 56 | 0.079 |
+| 9 | Chicken Chipotle Burrito Wrap | 520 | 41 | 0.079 |
+| 10 | Lomo Saltado with Cilantro Rice and Aji Verde | 770 | 60 | 0.078 |
 
 ## Best for muscle gain (highest protein, reasonable calories)
 

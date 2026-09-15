@@ -171,6 +171,18 @@ def build_rankings(rows):
     # calorie count for a full meal, so tiny high-density snacks don't win
     # over a substantial meal. Falls back to all meals if the window is too
     # narrow for this menu.
+    in_window = [
+        m for m in usable
+        if MUSCLE_GAIN_MIN_CALORIES <= m["calories"] <= MUSCLE_GAIN_MAX_CALORIES
+    ]
+    muscle_gain_pool = in_window if in_window else usable
+    muscle_gain = sorted(
+        ({**m} for m in muscle_gain_pool),
+        key=lambda m: m["protein"],
+        reverse=True,
+    )
+
+    return fat_loss[:TOP_N], muscle_gain[:TOP_N]
 
 
 def build_ranking_markdown(fat_loss, muscle_gain):
