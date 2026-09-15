@@ -1,0 +1,42 @@
+name: Scrape halalmeals.ca menu
+
+on:
+  schedule:
+    # 9:00 UTC daily = 5:00am ET during EDT (UTC-4) / 4:00am ET during EST (UTC-5).
+    # Runs ~1 hour before the 6am ET Claude check, to leave buffer for GitHub's
+    # scheduling jitter. Adjust if you change the Claude schedule.
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit the updated data files
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: python scrape_nutrition.py
+
+      - name: Commit updated data (only if it changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nutrition_data.json nutrition_table.txt ranking.md
+          if git diff --cached --quiet; then
+            echo "No menu changes today."
+          else
+            git commit -m "Update menu data $(date -u +'%Y-%m-%d')"
+            git push
+          fi
