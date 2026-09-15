@@ -159,24 +159,18 @@ def build_rankings(rows):
         usable.append({"title": r["title"], "calories": cals, "protein": protein})
 
     # Fat loss: highest protein-per-calorie (protein density), highest first.
-    fat_loss = sorted(usable, key=lambda m: m["protein"] / m["calories"], reverse=True)
-    for m in fat_loss:
-        m["score"] = round(m["protein"] / m["calories"], 4)
+    # Build fresh dicts per ranking — usable's dicts must not be shared/mutated
+    # between the two rankings, or one ranking's score overwrites the other's.
+    fat_loss_sorted = sorted(usable, key=lambda m: m["protein"] / m["calories"], reverse=True)
+    fat_loss = [
+        {**m, "score": round(m["protein"] / m["calories"], 4)}
+        for m in fat_loss_sorted
+    ]
 
     # Muscle gain: highest total protein among meals with a "reasonable"
     # calorie count for a full meal, so tiny high-density snacks don't win
     # over a substantial meal. Falls back to all meals if the window is too
     # narrow for this menu.
-    windowed = [
-        m for m in usable
-        if MUSCLE_GAIN_MIN_CALORIES <= m["calories"] <= MUSCLE_GAIN_MAX_CALORIES
-    ]
-    muscle_pool = windowed if len(windowed) >= 3 else usable
-    muscle_gain = sorted(muscle_pool, key=lambda m: m["protein"], reverse=True)
-    for m in muscle_gain:
-        m["score"] = m["protein"]
-
-    return fat_loss[:TOP_N], muscle_gain[:TOP_N]
 
 
 def build_ranking_markdown(fat_loss, muscle_gain):
