@@ -4,28 +4,28 @@
 
 | # | Meal | Calories | Protein (g) | Protein/Calorie |
 |---|------|----------|-------------|------------------|
-| 1 | (Keto) Beef Lasagna | 510 | 52 | 0.102 |
-| 2 | Chicken and Sweet Potato Shephards Pie | 446 | 44 | 0.099 |
-| 3 | (Keto) Grilled Chicken Fajita Pasta | 450 | 42 | 0.093 |
-| 4 | (Keto) Khao Soi | 443 | 40 | 0.090 |
-| 5 | Creamy Tuscan Chicken with Egg Noodles and Roasted Green Beans | 860 | 69 | 0.080 |
-| 6 | Honey Mustard Chicken Sandwich | 430 | 34 | 0.079 |
-| 7 | Jalapeno Popper Chicken with Potatoes & Veggies | 621 | 49 | 0.079 |
-| 8 | Mango Habanero Chicken Burrito Bowl | 710 | 56 | 0.079 |
+| 1 | Sweet and Spicy Korean Beef Bulgogi with Sautéed Bok Choy and Garlic Soy Noodles | 340 | 35 | 0.103 |
+| 2 | Peri-Peri Chicken with Roasted Sweet Potato and Corn Salsa | 530 | 53 | 0.100 |
+| 3 | (Keto) Mac and Cheese with Cajun Chicken | 550 | 54 | 0.098 |
+| 4 | Teppanyaki Chicken with Fried Brown Rice | 404 | 38 | 0.094 |
+| 5 | Sesame Chicken with Edamame Noodles | 447 | 42 | 0.093 |
+| 6 | Garlic Butter Steak Bites with Roasted Broccoli and Mixed Quinoa | 640 | 56 | 0.087 |
+| 7 | Rosemary Lemon Chicken | 510 | 43 | 0.084 |
+| 8 | Honey Mustard Chicken Sandwich | 430 | 34 | 0.079 |
 | 9 | Chicken Chipotle Burrito Wrap | 520 | 41 | 0.079 |
-| 10 | Lomo Saltado with Cilantro Rice and Aji Verde | 770 | 60 | 0.078 |
+| 10 | Marry Me Chicken Orzo Bake with Broccoli | 649 | 51 | 0.079 |
 
 ## Best for muscle gain (highest protein, reasonable calories)
 
 | # | Meal | Calories | Protein (g) |
 |---|------|----------|-------------|
-| 1 | Creamy Tuscan Chicken with Egg Noodles and Roasted Green Beans | 860 | 69 |
-| 2 | Jerk Chicken with Rice | 830 | 60 |
-| 3 | Lomo Saltado with Cilantro Rice and Aji Verde | 770 | 60 |
-| 4 | Mango Habanero Chicken Burrito Bowl | 710 | 56 |
-| 5 | (Keto) Beef Lasagna | 510 | 52 |
-| 6 | Jalapeno Popper Chicken with Potatoes & Veggies | 621 | 49 |
-| 7 | Grilled Chicken Fajita Pasta | 628 | 48 |
-| 8 | Thai Cashew Chicken Stir Fry | 602 | 47 |
-| 9 | Authentic Nihari with Naan | 800 | 45 |
-| 10 | Miso Chicken with Sweet Potato and Asparagus | 580 | 45 |
+| 1 | Garlic Butter Steak Bites with Roasted Broccoli and Mixed Quinoa | 640 | 56 |
+| 2 | (Keto) Mac and Cheese with Cajun Chicken | 550 | 54 |
+| 3 | Peri-Peri Chicken with Roasted Sweet Potato and Corn Salsa | 530 | 53 |
+| 4 | Lemon Pepper Shrimp with Fried Brown Rice & Asian Veggies | 660 | 51 |
+| 5 | Marry Me Chicken Orzo Bake with Broccoli | 649 | 51 |
+| 6 | Chicken Korma | 790 | 50 |
+| 7 | Chicken Enchiladas | 675 | 49 |
+| 8 | Sofiyani Chicken Biryani with Raita | 740 | 48 |
+| 9 | Tandoori Chicken with Rice | 718 | 45 |
+| 10 | Honey Glazed Salmon with Couscous, Grilled Asparagus and Mushroom | 670 | 44 |
