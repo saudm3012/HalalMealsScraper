@@ -1711,7 +1711,7 @@
     "is_active": true,
     "description": "<p>Tender pulled beef served with creamy mashed potatoes and roasted green beans. A comforting, hearty bowl with rich, satisfying flavors.</p>",
     "product_id": null,
-    "allergens": "Milk",
+    "allergens": "Milk, Egg",
     "product_category": "PROTEINPLUS",
     "price_after_discount": "18.00",
     "category": "Protein Plus",
@@ -1749,7 +1749,7 @@
     ],
     "images": [
       {
-        "id": 1514,
+        "id": 1633,
         "product_id": 328,
         "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1765991092_Screen Shot 2025-12-17 at 12.04.32 PM.png",
         "is_featured": true,
