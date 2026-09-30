@@ -1,51 +1,51 @@
 [
   {
-    "id": 71,
-    "title": "Chicken 65",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763585_FLATLAY - PLATED - STYLED.png",
+    "id": 102,
+    "title": "Beef Kafta with Pilaf",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776409986_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "790Kcal",
-    "carbs": "101g",
+    "kcal": "700Kcal",
+    "carbs": "60g",
     "nutrition_per_serving": {
-      "calories": "790Kcal",
-      "carbs": "101g",
-      "fat": "21g",
-      "protein": "45g",
+      "calories": "700Kcal",
+      "carbs": "60g",
+      "fat": "20g",
+      "protein": "70g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Boneless Chicken, Corn Starch, Eggs, Vegetable Oil, Curry Leaves, Ginger, Chilli, Sauce, Flour, Green Onion, Basmati Rice",
+    "ingredients": "Ground Beef, Salt, Paprika, 7 Spice (Cumin, Cardamom Powder, Paprika, Coriander, Cloves, Cinnamon), White Pepper, Chicken Bouillon, Baking Powder, Cayenne ,Parsley, Cilantro, Mint, Lemon, Garlic,  Olive Oil, Sumac, Yogurt, Carrots, White Cabbage, Bulgur",
     "is_active": true,
-    "description": "<p>Fried chicken tossed in a sweet and sour sauce, served with rice and garnished with ginger, curry leaves and green onions</p>",
-    "product_id": "HMP00068",
-    "allergens": "Eggs, Wheat",
+    "description": "Succulent ground beef kafta kebabs served with fragrant rice pilaf, garlic yogurt sauce and fresh coleslaw.",
+    "product_id": "HMP00102",
+    "allergens": "Milk, Wheat",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
-    "spice_level": "Medium",
-    "protien": "45g",
-    "fats": "21g",
+    "spice_level": "Mild",
+    "protien": "70g",
+    "fats": "20g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [
       {
-        "label": "BESTSELLER",
+        "label": "TRENDING",
         "textColor": "#000000",
-        "bgColor": "#d1ecc3"
+        "bgColor": "#ecd03b"
       }
     ],
     "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMML0021",
-    "protein_source": "Chicken",
+    "cuisine": "MIDDLE EASTERN",
+    "sku": "HMML0029",
+    "protein_source": "Beef",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Chicken 65",
-    "side_title": "with Rice",
-    "sub_title": "Vibrant South Indian flavor with a fiery kick",
-    "featured_text": "Flavor packed",
+    "short_title": "Beef Kafta",
+    "side_title": "with Pilaf",
+    "sub_title": "Char grilled flavor with a keto edge",
+    "featured_text": "70g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -56,30 +56,30 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1625,
-        "product_id": 71,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763585_FLATLAY - PLATED - STYLED.png",
+        "id": 1608,
+        "product_id": 102,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776409986_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1626,
-        "product_id": 71,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763648_CLOSEUP 1 - PROTEIN.png",
+        "id": 1609,
+        "product_id": 102,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776409991_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1627,
-        "product_id": 71,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763651_CLOSEUP 2 - SIDES.png",
+        "id": 1610,
+        "product_id": 102,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776409993_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1628,
-        "product_id": 71,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763653_CLOSEUP 3 - VARIED.png",
+        "id": 1611,
+        "product_id": 102,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776409996_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -89,52 +89,46 @@
     }
   },
   {
-    "id": 64,
-    "title": "Lamb Biryani",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1782864638_PLC_Lamb_Biryani.png",
+    "id": 305,
+    "title": "Salmon and Shrimp Hibachi Fried Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415087_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "840Kcal",
-    "carbs": "70g",
+    "kcal": "372Kcal",
+    "carbs": "22g",
     "nutrition_per_serving": {
-      "calories": "840Kcal",
-      "carbs": "70g",
-      "fat": "38g",
-      "protein": "50g",
+      "calories": "372Kcal",
+      "carbs": "22g",
+      "fat": "16g",
+      "protein": "30.5g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Bone- in lamb, Basmati rice, Vegetable oil, Assorted spices, Yogurt, Ginger-garlic paste, Onions, Tomatoes, Coriander, Mint",
+    "ingredients": "Salmon, shrimp, Lemon Pepper, Black Pepper, Garlic Powder, Smoked Paprika Powder, Old Bay Seasoning, Red Pepper Flakes, Salt, Brown Rice, Egg, Carrot, Red Bell Pepper, Onion, Soy Sauce, Broccoli, Sesame Seeds, Green Onion, Apple Cider Vinegar, Ginger, Sugar",
     "is_active": true,
-    "description": "Bone-in lamb cooked with aromatic basmati rice, spiced with traditional spices and herbs served with a yogurt raita.",
-    "product_id": "HMP00061",
-    "allergens": "Milk",
+    "description": "A sizzling fusion of garlic-seasoned salmon cubes and juicy shrimp, seared to perfection. Served with hearty brown rice stir-fried with vibrant veggies, egg, and a splash of soy sauce, then drizzled with savory hibachi sauce. Garnished with toasted sesame seeds and fresh green onions for a flavorful, protein-packed twist on a classic hibachi bowl.",
+    "product_id": null,
+    "allergens": "Fish, Crustaceans and mollusks, Soy, Sesame, Egg, Wheat Gluten",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
     "spice_level": "Medium",
-    "protien": "50g",
-    "fats": "38g",
+    "protien": "30.5g",
+    "fats": "16g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
-    "tags": [
-      {
-        "label": "CLASSIC",
-        "textColor": "#000000",
-        "bgColor": "#D1ECC3"
-      }
-    ],
+    "tags": [],
     "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMML0076",
-    "protein_source": "Lamb",
+    "cuisine": "ASIAN",
+    "sku": "IMML0012",
+    "protein_source": "Seafood",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Lamb Biryani",
-    "side_title": "with Yogurt Raita",
-    "sub_title": "A classic rice dish with luxurious depth",
-    "featured_text": "50g protein",
+    "short_title": "Salmon and Shrimp Hibachi Fried Rice",
+    "side_title": "with Hibachi Sauce",
+    "sub_title": "Sizzling takeout style flavor at home",
+    "featured_text": "31g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -145,11 +139,32 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1587,
-        "product_id": 64,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1782864638_PLC_Lamb_Biryani.png",
+        "id": 860,
+        "product_id": 305,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415087_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
+      },
+      {
+        "id": 861,
+        "product_id": 305,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415091_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 862,
+        "product_id": 305,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415093_CLOSEUP 2 - SIDES.png",
+        "is_featured": false,
+        "sort_order": 2
+      },
+      {
+        "id": 863,
+        "product_id": 305,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415095_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
       }
     ],
     "_internal": {
@@ -157,46 +172,46 @@
     }
   },
   {
-    "id": 327,
-    "title": "Chicken Shawarma with Mediterranean Veg and Harissa Date Sauce",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684842_FLATLAY - PLATED - STYLED.png",
+    "id": 379,
+    "title": "Spiced Thyme Chicken with Sweet Potato Mash & Sauteed Kale",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775766048_2FLATLAY - PLATED - STYLED.png",
     "total_price": "18.00",
-    "kcal": "600Kcal",
-    "carbs": "53g",
+    "kcal": "700Kcal",
+    "carbs": "63g",
     "nutrition_per_serving": {
-      "calories": "600Kcal",
-      "carbs": "53g",
-      "fat": "24g",
-      "protein": "44g",
-      "sodium": "660mg",
+      "calories": "700Kcal",
+      "carbs": "63g",
+      "fat": "33g",
+      "protein": "40g",
+      "sodium": "710mg",
       "fiber": "10g",
       "saturated_fat": null
     },
-    "ingredients": "Potatoes, Olive Oil, Garlic Powder, Paprika, Salt, Black Pepper, Cayenne Pepper,  Boneless Chicken Thigh, Distilled Vinegar, Lemon Juice, Tomato Paste, Olive Oil, Sugars,  Turmeric, Cumin, Cardamom, Onion Powder, Allspice, Coriander, Cloves, Cayenne Pepper, Eggplant, Zucchini, Red Onion, Carrot, Parsley, Date Paste, Bell Peppers, Jalapeno, Canola Oil, Caraway Seed",
+    "ingredients": "Sweet Potato, Whole Milk, Maple Syrup, Butter, Salt, Black Pepper, Thyme, Boneless Chicken Thigh, Balsamic Vinegar, Honey, Olive Oil, Paprika, Chili Powder, Cumin, Kale, Carrots, Garlic, Avocado Oil, Olive Oil, Balsamic Vinegar, Lemon",
     "is_active": true,
-    "description": "<p>Tender shawarma chicken with roasted Mediterranean vegetables and spiced potato cubes, finished with a rich harissa-date sauce. A bold, aromatic bowl with smoky, sweet, and savory layers.</p>",
+    "description": "<p>Juicy spiced chicken thigh, infused with thyme and warm aromatics, served over creamy sweet potato mash and paired with balsamic-kissed saut\u00e9ed kale and carrots, finished with fresh parsley.</p>",
     "product_id": null,
     "allergens": null,
     "product_category": "PROTEINPLUS",
     "price_after_discount": "18.00",
     "category": "Protein Plus",
-    "spice_level": "Medium",
-    "protien": "44g",
-    "fats": "24g",
+    "spice_level": "Mild",
+    "protien": "40g",
+    "fats": "33g",
     "total_price_weekly": "15.30",
     "price_after_discount_weekly": "15.30",
     "tags": [],
     "is_featured": false,
-    "cuisine": "MIDDLE EASTERN",
-    "sku": "IMML0036",
+    "cuisine": "WESTERN",
+    "sku": "IMML0026",
     "protein_source": "Chicken",
-    "sodium": "660mg",
+    "sodium": "710mg",
     "fiber": "10g",
     "saturated_fat": null,
-    "short_title": "Chicken Shawarma",
-    "side_title": "with Mediterranean Veg and Harissa Date Sauce",
-    "sub_title": "Fresh vibrant flavors straight from the Mediterranean",
-    "featured_text": "44g protein",
+    "short_title": "Spiced Thyme Chicken",
+    "side_title": "with Sweet Potato Mash & Sauteed Kale",
+    "sub_title": "Balanced meal with big flavor",
+    "featured_text": "40g protein",
     "show_heating_details": true,
     "collection_tags": [
       "protein-plus"
@@ -214,30 +229,30 @@
     ],
     "images": [
       {
-        "id": 809,
-        "product_id": 327,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684842_FLATLAY - PLATED - STYLED.png",
+        "id": 947,
+        "product_id": 379,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775766048_2FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 810,
-        "product_id": 327,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684852_CLOSEUP 1 - PROTEIN.png",
+        "id": 948,
+        "product_id": 379,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775766052_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 811,
-        "product_id": 327,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684856_CLOSEUP 2 - SIDES.png",
+        "id": 949,
+        "product_id": 379,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775766057_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 812,
-        "product_id": 327,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684862_CLOSEUP 3 - VARIED.png",
+        "id": 950,
+        "product_id": 379,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775766059_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -247,46 +262,46 @@
     }
   },
   {
-    "id": 65,
-    "title": "Butter Chicken",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776111182_FLATLAY - PLATED - STYLED.png",
+    "id": 104,
+    "title": "Nashville-Style Hot Chicken Sandwich",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776139199_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "780Kcal",
-    "carbs": "60g",
+    "kcal": "887Kcal",
+    "carbs": "84g",
     "nutrition_per_serving": {
-      "calories": "780Kcal",
-      "carbs": "60g",
-      "fat": "34.48g",
-      "protein": "56.57g",
+      "calories": "887Kcal",
+      "carbs": "84g",
+      "fat": "40.5g",
+      "protein": "44g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Chicken Breast, Onion, Vegetable Oil, Bay Leaves, Cloves, Black Cardamom, Green Cardamom, Mace, Cinnamon, Cumin, Fennel, Garlic, Ginger, Green Chili, Fenugreek, Melon Seeds, Tomatoes, Coriander, Cashews, Black Pepper, Red Chili Powder, Heavy Cream, Basmati Rice, Naan (Wheat)",
+    "ingredients": "Chicken Breast, Wheat Burger Buns, Flour, Eggs, Buttermilk, Nashville-Style Dry Rub Seasoning, Mayo, Pickles, Vegetable Oil, Potatoes, Cabbage, Carrots, Mustard",
     "is_active": true,
-    "description": "Aromatic succulent chicken pieces cooked in n an incredible creamy curry sauce served with rice and naan",
-    "product_id": "HMP00062",
-    "allergens": "Milk, Tree Nuts",
+    "description": "Spicy Nashville-style fried chicken burger served with our chef's special sauce, pickles, creamy coleslaw and potato wedges.",
+    "product_id": "HMP00104",
+    "allergens": "Milk, Wheat, Eggs, Mustard",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
-    "spice_level": "Medium",
-    "protien": "56.57g",
-    "fats": "34.48g",
+    "spice_level": "Spicy",
+    "protien": "44g",
+    "fats": "40.5g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMML0077",
+    "cuisine": "WESTERN",
+    "sku": "HMML0062",
     "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Butter Chicken",
-    "side_title": "with Naan & Rice",
+    "short_title": "Nashville-Style Hot Chicken Sandwich",
+    "side_title": "with Potato Wedges",
     "sub_title": "Bold heat balanced with big flavor",
-    "featured_text": "56g protein",
+    "featured_text": "44g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -297,106 +312,30 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 758,
-        "product_id": 65,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776111182_FLATLAY - PLATED - STYLED.png",
+        "id": 931,
+        "product_id": 104,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776139199_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 759,
-        "product_id": 65,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776111361_CLOSEUP 2 - SIDES.png",
+        "id": 932,
+        "product_id": 104,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776139204_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 760,
-        "product_id": 65,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776111366_2CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 2
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 73,
-    "title": "Chicken Shawarma Plate",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559361_FLATLAY - PLATED - STYLED.png",
-    "total_price": "16.03",
-    "kcal": "743Kcal",
-    "carbs": "62g",
-    "nutrition_per_serving": {
-      "calories": "743Kcal",
-      "carbs": "62g",
-      "fat": "33.08g",
-      "protein": "49.48g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Boneless Chicken Thighs, Basmati Rice, Vegetable Oil, Assorted Seasonings (Paprika, Salt, Black Pepper, Cumin, 5 Spices (Star Anise, Cloves, Cinnamon, Fennel Seeds, Sichuan Peppercorns) Honey, Orange Juice, Cardamom) Onions, Garlic, Ginger, Chicken Bouillon, Coriander, Black Pepper, Green Lentils, Parsley, Tomatoes, Olive Oil",
-    "is_active": true,
-    "description": "Tender, spiced chicken thigh grilled to perfection and served with hearty mujadara\u2014fragrant green lentil rice topped with crispy fried onions. Paired with fresh tabbouleh and a bold garlic toum sauce, this plate brings classic Middle Eastern comfort and flavor to every bite.",
-    "product_id": "HMP00070",
-    "allergens": "Sulphites",
-    "product_category": "MAIN",
-    "price_after_discount": "16.03",
-    "category": "Mains",
-    "spice_level": "Mild",
-    "protien": "49.48g",
-    "fats": "33.08g",
-    "total_price_weekly": "13.75",
-    "price_after_discount_weekly": "13.75",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "MIDDLE EASTERN",
-    "sku": "HMML0119",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Chicken Shawarma Plate",
-    "side_title": "with Mujadara & Tabbouleh",
-    "sub_title": "A street food favorite turned full comfort plate",
-    "featured_text": "49g protein",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 4,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 1117,
-        "product_id": 73,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559361_FLATLAY - PLATED - STYLED.png",
-        "is_featured": true,
-        "sort_order": 0
-      },
-      {
-        "id": 1118,
-        "product_id": 73,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559363_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 1119,
-        "product_id": 73,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559366_CLOSEUP 2 - SIDES.png",
+        "id": 933,
+        "product_id": 104,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776139209_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1120,
-        "product_id": 73,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559367_CLOSEUP 3 - VARIED.png",
+        "id": 934,
+        "product_id": 104,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776139212_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -406,46 +345,136 @@
     }
   },
   {
-    "id": 75,
-    "title": "Kabsa Chicken with Rice",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561347_FLATLAY - PLATED - STYLED.png",
-    "total_price": "16.03",
-    "kcal": "730Kcal",
-    "carbs": "87g",
+    "id": 333,
+    "title": "Red Curry Chicken with Shiritake Noodles & Sauteed Broccolini",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775765793_FLATLAY - PLATED - STYLED.png",
+    "total_price": "18.00",
+    "kcal": "670Kcal",
+    "carbs": "32g",
     "nutrition_per_serving": {
-      "calories": "730Kcal",
-      "carbs": "87g",
-      "fat": "19g",
-      "protein": "53g",
+      "calories": "670Kcal",
+      "carbs": "32g",
+      "fat": "30g",
+      "protein": "63g",
+      "sodium": "810mg",
+      "fiber": "11g",
+      "saturated_fat": null
+    },
+    "ingredients": "Boneless Chicken Breast, Coconut Milk, Vegetable Broth, Red Curry Paste, Vegetable Oil, Basil, Sugars, Fish Sauce, Broccolini, Shirataki Noodles, Lime, Ginger",
+    "is_active": true,
+    "description": "<p>Tender chicken in a fragrant red curry, paired with saut\u00e9ed broccolini and light shirataki noodles. A rich, aromatic bowl with vibrant flavors and a clean, balanced finish.</p>",
+    "product_id": null,
+    "allergens": "Fish, Soy",
+    "product_category": "PROTEINPLUS",
+    "price_after_discount": "18.00",
+    "category": "Protein Plus",
+    "spice_level": "Mild",
+    "protien": "63g",
+    "fats": "30g",
+    "total_price_weekly": "15.30",
+    "price_after_discount_weekly": "15.30",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "WESTERN",
+    "sku": "IMML0041",
+    "protein_source": "Chicken",
+    "sodium": "810mg",
+    "fiber": "11g",
+    "saturated_fat": null,
+    "short_title": "Red Curry Chicken",
+    "side_title": "with Shiritake Noodles & Sauteed Broccolini",
+    "sub_title": "Bright zesty flavor that wakes up every bite",
+    "featured_text": "63g protein",
+    "show_heating_details": true,
+    "collection_tags": [
+      "protein-plus"
+    ],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 4,
+    "formatted_collection_tags": [
+      {
+        "name": "protein-plus",
+        "title": "Protein Plus"
+      }
+    ],
+    "images": [
+      {
+        "id": 943,
+        "product_id": 333,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775765793_FLATLAY - PLATED - STYLED.png",
+        "is_featured": true,
+        "sort_order": 0
+      },
+      {
+        "id": 944,
+        "product_id": 333,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775765796_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 945,
+        "product_id": 333,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775765798_CLOSEUP 2 - SIDES.png",
+        "is_featured": false,
+        "sort_order": 2
+      },
+      {
+        "id": 946,
+        "product_id": 333,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775765801_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 103,
+    "title": "Shish Taouk with Turkish Ezme",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776916175_FLATLAY - PLATED - STYLED.png",
+    "total_price": "16.03",
+    "kcal": "542Kcal",
+    "carbs": "52g",
+    "nutrition_per_serving": {
+      "calories": "542Kcal",
+      "carbs": "52g",
+      "fat": "10.5g",
+      "protein": "60g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Bone-in Quarter Chicken Leg, Basmati Rice, Assorted Spices (Nutmeg, Cinnamon), Yogurt, Onions, Tomato Paste, Dried Limes, Chicken Broth, Butter, Carrots, Tomatoes, Vegetable Oil, Lemon Juice, Paprika, Cumin, Honey, Orange, Cardamom, Saffron, Clove, Cane Sugar, Cashews, Green Chili",
+    "ingredients": "Chicken Breast, Vegetable Oil, Assorted Spices, Garlic, Sweet Pepper Paste, Pomegranate Molasses, Tomatoes, Green Chili, Pul Biber, Olive Oil, Sumac, Green Bell Peppers",
     "is_active": true,
-    "description": "Aromatic spiced Kabsa rice served with a juicy, slow-cooked quarter chicken leg infused with traditional Gulf flavors. Topped with roasted cashews for crunch, and served with cooling garlic yogurt sauce, a fried green chili, and a wedge of lime for a bright, zesty finish.",
-    "product_id": "HMP00072",
-    "allergens": "Milk, Tree Nuts, Sulphites",
+    "description": "Succulent chicken skewers marinated with traditional middle eastern spices served with pilaf rice and homestyle turkish sauce made with tomatoes, chili, pomegranate molasses and sweet red pepper paste. This meal is served with sauteed bell peppers and turkish peppers, garnished with parsley and sumac.",
+    "product_id": "HMP00103",
+    "allergens": "NIL",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
-    "spice_level": "Mild",
-    "protien": "53g",
-    "fats": "19g",
+    "spice_level": "Medium",
+    "protien": "60g",
+    "fats": "10.5g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "MIDDLE EASTERN",
-    "sku": "HMML0123",
+    "cuisine": "MEDITERRANEAN",
+    "sku": "HMML0066",
     "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Kabsa Chicken",
-    "side_title": "with Rice",
-    "sub_title": "Aromatic spices with tender slow cooked chicken",
-    "featured_text": "53g protein",
+    "short_title": "Shish Taouk",
+    "side_title": "with Turkish Ezme",
+    "sub_title": "Bold heat balanced with big flavor",
+    "featured_text": "60g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -456,30 +485,30 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1125,
-        "product_id": 75,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561347_FLATLAY - PLATED - STYLED.png",
+        "id": 1224,
+        "product_id": 103,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776916175_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1126,
-        "product_id": 75,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561358_CLOSEUP 1 - PROTEIN.png",
+        "id": 1225,
+        "product_id": 103,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776916182_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1127,
-        "product_id": 75,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561361_CLOSEUP 2 - SIDES.png",
+        "id": 1226,
+        "product_id": 103,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776916184_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1128,
-        "product_id": 75,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561363_CLOSEUP 3 - VARIED.png",
+        "id": 1227,
+        "product_id": 103,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776916187_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -489,46 +518,46 @@
     }
   },
   {
-    "id": 329,
-    "title": "Sweet and Spicy Korean Beef Bulgogi with Saut\u00e9ed Bok Choy and Garlic Soy Noodles",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775686190_FLATLAY - PLATED - STYLED.png",
+    "id": 378,
+    "title": "Cajun Chicken Bowl",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763510_2FLATLAY - PLATED - STYLED.png",
     "total_price": "18.00",
-    "kcal": "340Kcal",
-    "carbs": "13g",
+    "kcal": "450Kcal",
+    "carbs": "67g",
     "nutrition_per_serving": {
-      "calories": "340Kcal",
-      "carbs": "13g",
-      "fat": "14g",
-      "protein": "35g",
-      "sodium": "670mg",
-      "fiber": "5g",
+      "calories": "450Kcal",
+      "carbs": "67g",
+      "fat": "8g",
+      "protein": "32g",
+      "sodium": "630mg",
+      "fiber": "9g",
       "saturated_fat": null
     },
-    "ingredients": "Boneless Beef, Soy Sauce, Rice Vinegar, Corn Starch, Water, Red Chili Powder, Soybean Paste, Brown Sugar, Garlic, Black Pepper, Shirataki Noodles, Garlic, Sesame Oil, Soy Sauce, Bokchoy, Sesame Seeds, Green Onion",
+    "ingredients": "Potatoes, Olive Oil, Salt, Boneless Chicken Breast, Butter, Honey, Cajun Seasoning, Cilantro, Red Pepper, Yellow Pepper, White Onion, Tomatoes, Parsley, Roasted Peppers, Water, Sriracha",
     "is_active": true,
-    "description": "<p>Thinly sliced beef bulgogi with garlicky soy noodles and saut\u00e9ed bok choy. A sweet-heat balance with bold umami and light, satisfying freshness.</p>",
+    "description": "<p>Juicy Cajun-seasoned chicken with vibrant roasted peppers, served with hearty potatoes and a tangy tomato chutney. A bold, flavorful bowl with layered spice and savory depth.</p>",
     "product_id": null,
-    "allergens": "Wheat, Soy, Sesame",
+    "allergens": "Milk",
     "product_category": "PROTEINPLUS",
     "price_after_discount": "18.00",
     "category": "Protein Plus",
     "spice_level": "Mild",
-    "protien": "35g",
-    "fats": "14g",
+    "protien": "32g",
+    "fats": "8g",
     "total_price_weekly": "15.30",
     "price_after_discount_weekly": "15.30",
     "tags": [],
     "is_featured": false,
-    "cuisine": "ASIAN",
-    "sku": "IMML0040",
-    "protein_source": "Beef",
-    "sodium": "670mg",
-    "fiber": "5g",
+    "cuisine": "MEXICAN",
+    "sku": "IMML0033",
+    "protein_source": "Chicken",
+    "sodium": "630mg",
+    "fiber": "9g",
     "saturated_fat": null,
-    "short_title": "Sweet and Spicy Korean Beef Bulgogi",
-    "side_title": "with Saut\u00e9ed Bok Choy and Garlic Soy Noodles",
-    "sub_title": "Sweet heat and umami done the Korean way",
-    "featured_text": "35g protein",
+    "short_title": "Cajun Chicken Bowl",
+    "side_title": "with Potatoes & Tomato Chutney",
+    "sub_title": "Vibrant and balanced dish for any-day",
+    "featured_text": "32g protein",
     "show_heating_details": true,
     "collection_tags": [
       "protein-plus"
@@ -546,30 +575,30 @@
     ],
     "images": [
       {
-        "id": 951,
-        "product_id": 329,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775686190_FLATLAY - PLATED - STYLED.png",
+        "id": 761,
+        "product_id": 378,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763510_2FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 952,
-        "product_id": 329,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775686193_CLOSEUP 1 - PROTEIN.png",
+        "id": 762,
+        "product_id": 378,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763513_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 953,
-        "product_id": 329,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775686198_CLOSEUP 2 - SIDES.png",
+        "id": 763,
+        "product_id": 378,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763516_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 954,
-        "product_id": 329,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775686201_CLOSEUP 3 - VARIED.png",
+        "id": 764,
+        "product_id": 378,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775763551_2CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -579,46 +608,46 @@
     }
   },
   {
-    "id": 171,
-    "title": "Nando's Chicken with Peri Rice and Coleslaw",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1782864617_PLC_Nandos_Chicken.png",
+    "id": 302,
+    "title": "Jerk Chicken Pasta",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776210408_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "865Kcal",
-    "carbs": "72g",
+    "kcal": "800Kcal",
+    "carbs": "78g",
     "nutrition_per_serving": {
-      "calories": "865Kcal",
-      "carbs": "72g",
-      "fat": "46g",
-      "protein": "36g",
+      "calories": "800Kcal",
+      "carbs": "78g",
+      "fat": "34.5g",
+      "protein": "46g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Bone- in Chicken Quarter Leg, Chili Powder, Cumin, Garlic Powder, Smoked Paprika, Peri Peri Sauce, Olive Oil, Butter, Tomato Paste, Red Bell Pepper, Onion, Garlic, Basmati Rice, Chicken Stock, Turmeric, Oregano, Red Chili Flakes, Green Peas, Cilantro, Mayo, Cabbage, Carrot, Apple Cider Vinegar, Salt, Black Pepper, Heavy Cream",
+    "ingredients": "Chicken Breast, Jerk Seasoning, Vegetable Oil, Coconut Milk, Brown Sugar, Soy Sauce, Bonnet Peppers, Heavy Cream, Bell Peppers, Onion, Salt, Black Pepper, Thyme, Mozzerella Cheese, Flour, Carrot, Broccoli, Green Beans, Pasta, Green Onion",
     "is_active": true,
-    "description": "Treat yourself to our zesty Peri Chicken, marinated in bold spices for a perfect burst of flavor. Paired with fragrant spiced rice and a refreshing coleslaw, this meal offers a delicious mix of tangy, savory, and crunchy textures.",
-    "product_id": "HMP00171",
-    "allergens": "Egg, Milk",
+    "description": "Bold jerk-seasoned chicken breast served over penne pasta tossed in a creamy jerk sauce. Paired with broccoli, carrots, and green beans, and finished with fresh green onions\u2014this dish blends Caribbean heat with comforting pasta flair.",
+    "product_id": null,
+    "allergens": "Milk, Wheat, Soy, Wheat Gluten",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
-    "spice_level": "Medium",
-    "protien": "36g",
-    "fats": "46g",
+    "spice_level": "Mild",
+    "protien": "46g",
+    "fats": "34.5g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "CONTINENTAL",
-    "sku": "HMML0167",
+    "cuisine": "ITALIAN",
+    "sku": "IMML0010",
     "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Nando's Chicken",
-    "side_title": "with Peri Rice and Coleslaw",
-    "sub_title": "Bright peri flavors with a smoky finish",
-    "featured_text": "36g protein",
+    "short_title": "Jerk Chicken Pasta",
+    "side_title": "with Broccoli & Green Beans",
+    "sub_title": "Caribbean heat wrapped in creamy pasta comfort",
+    "featured_text": "46g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -629,11 +658,32 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1542,
-        "product_id": 171,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1782864617_PLC_Nandos_Chicken.png",
+        "id": 888,
+        "product_id": 302,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776210408_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
+      },
+      {
+        "id": 889,
+        "product_id": 302,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776210412_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 890,
+        "product_id": 302,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776210416_CLOSEUP 2 - SIDES.png",
+        "is_featured": false,
+        "sort_order": 2
+      },
+      {
+        "id": 891,
+        "product_id": 302,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776210418_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
       }
     ],
     "_internal": {
@@ -641,46 +691,52 @@
     }
   },
   {
-    "id": 74,
-    "title": "Beef Adana Kebab with Tomato Bulgur Pilaf",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003592_FLATLAY - PLATED - STYLED.png",
+    "id": 100,
+    "title": "Peri Peri Chicken with Portuguese Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Peri%20Peri%20Chicken%20with%20Portugese%20Rice.png",
     "total_price": "16.03",
-    "kcal": "571Kcal",
-    "carbs": "48.41g",
+    "kcal": "734Kcal",
+    "carbs": "40g",
     "nutrition_per_serving": {
-      "calories": "571Kcal",
-      "carbs": "48.41g",
-      "fat": "30g",
-      "protein": "27g",
+      "calories": "734Kcal",
+      "carbs": "40g",
+      "fat": "33g",
+      "protein": "67g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Ground Beef, Olive Oil, Urfa Biber, Sumac, Cumin, Coriander, Onion, Tomato, Sweet Pepper Paste, Pomegranate Molasses, Tomatoes, Green Chili, Pul Biber, Bulgur, Turkish Peppers",
+    "ingredients": "Bone-in Chicken Leg, Peri-Peri Spices, Bell Peppers, Vegetable Oil, Basmati Rice, Coriander, Garlic, Onion, Vinegar, Lemon Juice, Pinto Beans, Tomatoes, Green Beans",
     "is_active": true,
-    "description": "This flavourful dish originates from the southwestern regions of Turkey, succulent kebabs grilled to perfection and served with bulgur pilaf and roasted peppers with a side of Turkish ezme and garnished with sumac onions.",
-    "product_id": "HMP00071",
-    "allergens": "Sulphites, Wheat",
+    "description": "Grilled chicken marinated with smoky peri-peri spice served with Portuguese rice, sauteed green beans and peri-peri sauce.",
+    "product_id": "HMP00100",
+    "allergens": "Sulphites",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
     "spice_level": "Medium",
-    "protien": "27g",
-    "fats": "30g",
+    "protien": "67g",
+    "fats": "33g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
-    "tags": [],
+    "tags": [
+      {
+        "label": "BESTSELLER",
+        "textColor": "#000000",
+        "bgColor": "#ecd03b"
+      }
+    ],
     "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMML0147",
-    "protein_source": "Beef",
+    "cuisine": "CONTINENTAL",
+    "sku": "HMML0024",
+    "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Beef Adana Kebab",
-    "side_title": "with Tomato Bulgur Pilaf",
-    "sub_title": "Bold smoky flavor with a southwestern kick",
-    "featured_text": "Boldly spiced",
+    "short_title": "Peri Peri Chicken",
+    "side_title": "with Portuguese Rice",
+    "sub_title": "Smoky savory goodness done right",
+    "featured_text": "67g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -691,32 +747,11 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1371,
-        "product_id": 74,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003592_FLATLAY - PLATED - STYLED.png",
+        "id": 1616,
+        "product_id": 100,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Peri%20Peri%20Chicken%20with%20Portugese%20Rice.png",
         "is_featured": true,
         "sort_order": 0
-      },
-      {
-        "id": 1372,
-        "product_id": 74,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003596_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 1373,
-        "product_id": 74,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003598_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 1374,
-        "product_id": 74,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003601_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
       }
     ],
     "_internal": {
@@ -724,80 +759,80 @@
     }
   },
   {
-    "id": 69,
-    "title": "Mongolian Beef with Jasmine Rice",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479258_FLATLAY - PLATED - STYLED.png",
+    "id": 105,
+    "title": "Creamy Cajun Chicken Pasta",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413217_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "600Kcal",
-    "carbs": "65g",
+    "kcal": "956Kcal",
+    "carbs": "92g",
     "nutrition_per_serving": {
-      "calories": "600Kcal",
-      "carbs": "65g",
-      "fat": "20g",
-      "protein": "33g",
+      "calories": "956Kcal",
+      "carbs": "92g",
+      "fat": "32g",
+      "protein": "75g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Boneless Beef, Garlic, Ginger, Soy Sauce, Corn Starch, Brown Sugar, Green Onions, Vegetable Oil, Broccoli, Worchestire Sauce, Jasmine Rice, Green Chili, Sweet Chili Sauce, Vegetarian Oyster Sauce, Rice Vinegar, Beef Stock",
+    "ingredients": "Chicken Breast, Cajun Seasoning, Heavy Cream, Cream Cheese, Garlic, Olive Oil, Bell Peppers, Onions, Sauteed Veggies (Carrots, Green Beans, Broccoli), Wheat Pasta",
     "is_active": true,
-    "description": "Mongolian beef served with steamed jasmine rice and broccoli and garnished with green onions and sesame seeds",
-    "product_id": "HMP00066",
-    "allergens": "Sesame, Soy, Sulphites, Wheat Gluten",
+    "description": "Grilled chicken breast seasoned with Cajun spices, served on a bed of pasta and a mouth-watering creamy sauce and a side of sauteed vegetables.",
+    "product_id": "HMP00105",
+    "allergens": "Milk, Wheat",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
-    "spice_level": "Medium",
-    "protien": "33g",
-    "fats": "20g",
+    "spice_level": "N/A",
+    "protien": "75g",
+    "fats": "32g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "ASIAN",
-    "sku": "HMML0083",
-    "protein_source": "Beef",
+    "cuisine": "ITALIAN",
+    "sku": "HMML0023",
+    "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Mongolian Beef",
-    "side_title": "with Jasmine Rice",
-    "sub_title": "Rich savory glaze with bold umami flavor",
-    "featured_text": "33g protein",
+    "short_title": "Creamy Cajun Chicken Pasta",
+    "side_title": "with Sauteed Vegetables",
+    "sub_title": "Deep, savory richness with bold Cajun character",
+    "featured_text": "75g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
       "LUNCH-DINNER"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 10,
+    "sort_order": 9,
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1069,
-        "product_id": 69,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479258_FLATLAY - PLATED - STYLED.png",
+        "id": 848,
+        "product_id": 105,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413217_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1070,
-        "product_id": 69,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479264_CLOSEUP 1 - PROTEIN.png",
+        "id": 849,
+        "product_id": 105,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413220_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1071,
-        "product_id": 69,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479271_CLOSEUP 2 - SIDES.png",
+        "id": 850,
+        "product_id": 105,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413223_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1072,
-        "product_id": 69,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479274_CLOSEUP 3 - VARIED.png",
+        "id": 851,
+        "product_id": 105,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413225_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -807,46 +842,136 @@
     }
   },
   {
-    "id": 300,
-    "title": "Fajita Stuffed Chicken with Broccolini",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776418137_FLATLAY - PLATED - STYLED.png",
-    "total_price": "16.03",
-    "kcal": "816Kcal",
-    "carbs": "41g",
+    "id": 114,
+    "title": "(Keto) Colombian Steak with Tomatoes & Onions",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776565670_FLATLAY - PLATED - STYLED.png",
+    "total_price": "18.33",
+    "kcal": "469Kcal",
+    "carbs": "13.2g",
     "nutrition_per_serving": {
-      "calories": "816Kcal",
-      "carbs": "41g",
-      "fat": "53.5g",
-      "protein": "42g",
+      "calories": "469Kcal",
+      "carbs": "13.2g",
+      "fat": "30g",
+      "protein": "40g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Chicken Thighs, Cumin, Salt, Chili Powder, Ginger, Oregano, Garlic, Coriander, Butter, Flour, Thyme, Rosemary, Assorted Bell Peppers (Red & Green), Jalapeno, Tomato Paste, Heavy Cream, Milk, Mozzarella Cheese, Cheddar Cheese, Chicken Stock, Potatoes, White Pepper, Salt, Broccolini",
+    "ingredients": "Steak, Olive Oil, Onions, Tomatoes, Garlic, Broccoli, Eggs, Salt, Black Pepper, Cumin",
     "is_active": true,
-    "description": "Juicy chicken thighs stuffed with mozzarella, saut\u00e9ed peppers, and onions, seasoned with bold fajita spices. Served with broccolini, creamy mashed potatoes, and topped with fajita cream sauce and fresh parsley for a comforting, cheesy Southwest-inspired meal.",
-    "product_id": null,
-    "allergens": "Milk, Wheat, Sulphites",
+    "description": "Succulent pieces of steak cooked in a tangy tomato and onion gravy served with broccoli fried rice and fried egg, garnished with fresh parsley.",
+    "product_id": "HMP00114",
+    "allergens": "Egg",
+    "product_category": "KETO",
+    "price_after_discount": "18.33",
+    "category": "Keto",
+    "spice_level": "Mild",
+    "protien": "40g",
+    "fats": "30g",
+    "total_price_weekly": "15.75",
+    "price_after_discount_weekly": "15.75",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "Drinks",
+    "sku": "HMKT0060",
+    "protein_source": "Beef",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Colombian Steak",
+    "side_title": "with Tomatoes & Onions",
+    "sub_title": "Balanced comfort with plenty to love",
+    "featured_text": "40g protein",
+    "show_heating_details": true,
+    "collection_tags": [
+      "keto"
+    ],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 10,
+    "formatted_collection_tags": [
+      {
+        "name": "keto",
+        "title": "Keto"
+      }
+    ],
+    "images": [
+      {
+        "id": 1158,
+        "product_id": 114,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776565670_FLATLAY - PLATED - STYLED.png",
+        "is_featured": true,
+        "sort_order": 0
+      },
+      {
+        "id": 1159,
+        "product_id": 114,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776565675_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 1160,
+        "product_id": 114,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776565677_CLOSEUP 2 - SIDES.png",
+        "is_featured": false,
+        "sort_order": 2
+      },
+      {
+        "id": 1161,
+        "product_id": 114,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776565679_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 95,
+    "title": "Karachi Beef Biryani",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Karachi%20Beef%20Biryani.png",
+    "total_price": "16.03",
+    "kcal": "860Kcal",
+    "carbs": "72g",
+    "nutrition_per_serving": {
+      "calories": "860Kcal",
+      "carbs": "72g",
+      "fat": "40g",
+      "protein": "52g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Beef, Basmati rice, Potatoes, Yogurt, Onions, Parsley, Cilantro, Tomatoes, Vegetable Oil, Ginger, Garlic, Mint, Spices (Cumin, Turmeric, Cinnamon, Cardamom, Chili Powder, Garam Masala)",
+    "is_active": true,
+    "description": "Tender prices of boneless beef and potatoes cooked in fragrant rice and aromatic Karachi spices served with mint raita.",
+    "product_id": "HMP00095",
+    "allergens": "Milk",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
-    "spice_level": "Mild",
-    "protien": "42g",
-    "fats": "53.5g",
+    "spice_level": "Medium",
+    "protien": "52g",
+    "fats": "40g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "CONTINENTAL",
-    "sku": "IMML0011",
-    "protein_source": "Chicken",
+    "cuisine": "INDO-PAK",
+    "sku": "HMML0124",
+    "protein_source": "Beef",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Fajita Stuffed Chicken",
-    "side_title": "with Broccolini",
-    "sub_title": "Bold smoky flavor with a southwestern kick",
-    "featured_text": "42g protein",
+    "short_title": "Karachi Beef Biryani",
+    "side_title": "with Mint Raita",
+    "sub_title": "Bold heat balanced with big flavor",
+    "featured_text": "52g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -857,32 +982,11 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 983,
-        "product_id": 300,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776418137_FLATLAY - PLATED - STYLED.png",
+        "id": 196,
+        "product_id": 95,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Karachi%20Beef%20Biryani.png",
         "is_featured": true,
         "sort_order": 0
-      },
-      {
-        "id": 984,
-        "product_id": 300,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776418143_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 985,
-        "product_id": 300,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776418146_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 986,
-        "product_id": 300,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776418149_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
       }
     ],
     "_internal": {
@@ -890,46 +994,46 @@
     }
   },
   {
-    "id": 286,
-    "title": "Garlic Shrimp with Cheesy Pasta",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561674_FLATLAY - PLATED - STYLED.png",
+    "id": 289,
+    "title": "Chicken Alfredo Lasagna",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559214_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "804Kcal",
-    "carbs": "82.8g",
+    "kcal": "790Kcal",
+    "carbs": "78g",
     "nutrition_per_serving": {
-      "calories": "804Kcal",
-      "carbs": "82.8g",
-      "fat": "33.1g",
-      "protein": "43.1g",
+      "calories": "790Kcal",
+      "carbs": "78g",
+      "fat": "35g",
+      "protein": "47g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Shrimp, Butter, Garlic, Mozzarella, Cheddar, Parmesan, Chicken Stock, Heavy Cream, Olive Oil, Parsley, Assorted Spices, Spinach, Penne Pasta, Asparagus",
+    "ingredients": "Chicken Breast, Vegetable Oil, Butter, Flour, Garlic, Salt, Black Pepper, Italian Seasoning, Onion, Chili Flakes, Milk, Heavy Cream, Mozzerella Cheese, Parmesan Cheese, Lasagna Sheets, Broccoli, Carrots, Green Beans",
     "is_active": true,
-    "description": "Enjoy our Garlic Shrimp with Cheesy Pasta, featuring succulent shrimp saut\u00e9ed in a rich garlic butter sauce, served over creamy, cheese-infused pasta. Paired with tender, saut\u00e9ed asparagus.",
-    "product_id": "HMML0121",
-    "allergens": "Crustaceans and Molluscs, Milk, Wheat",
+    "description": "Layers of tender chicken, creamy Alfredo sauce, and melted mozzarella and Parmesan cheese come together in this rich and comforting lasagna. Served with a side of sauteed broccoli, carrots, and green beans for a touch of freshness, along with a warm, buttery garlic bread slice for the perfect finishing touch. A hearty, indulgent meal packed with classic Italian flavors.",
+    "product_id": null,
+    "allergens": "Milk, Wheat",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
     "spice_level": "Mild",
-    "protien": "43.1g",
-    "fats": "33.1g",
+    "protien": "47g",
+    "fats": "35g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "HMML0121",
-    "protein_source": "Seafood",
+    "cuisine": "ITALIAN",
+    "sku": "HMML0204",
+    "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Garlic Shrimp",
-    "side_title": "with Cheesy Pasta",
+    "short_title": "Chicken Alfredo Lasagna",
+    "side_title": "with Garlic Bread",
     "sub_title": "Italian comfort with cheesy savory depth",
-    "featured_text": "43g protein",
+    "featured_text": "47g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -940,30 +1044,30 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1149,
-        "product_id": 286,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561674_FLATLAY - PLATED - STYLED.png",
+        "id": 1109,
+        "product_id": 289,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559214_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1150,
-        "product_id": 286,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561678_CLOSEUP 1 - PROTEIN.png",
+        "id": 1110,
+        "product_id": 289,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559218_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1151,
-        "product_id": 286,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561681_CLOSEUP 2 - SIDES.png",
+        "id": 1111,
+        "product_id": 289,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559220_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1152,
-        "product_id": 286,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776561683_CLOSEUP 3 - VARIED.png",
+        "id": 1112,
+        "product_id": 289,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776559223_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -973,46 +1077,52 @@
     }
   },
   {
-    "id": 406,
-    "title": "Philly Cheesesteak Sliders with Potato Wedges",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003677_FLATLAY - PLATED - STYLED.png",
+    "id": 304,
+    "title": "Thai Basil Chicken with Bok Choy",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415020_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "900Kcal",
-    "carbs": "83g",
+    "kcal": "647Kcal",
+    "carbs": "54g",
     "nutrition_per_serving": {
-      "calories": "900Kcal",
-      "carbs": "83g",
-      "fat": "50g",
-      "protein": "45g",
+      "calories": "647Kcal",
+      "carbs": "54g",
+      "fat": "30g",
+      "protein": "40g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Olive Oil, Steak, Worcestershire Sauce, Garlic, Black Pepper, Chipotle Sauce, Thyme, Slider Buns, Cheddar, Onion, Potato Wedges, Italian Seasoning, Mayonnaise, Lemon Juice, Dijon Mustard, Honey",
+    "ingredients": "Ground Chicken, Soy Sauce, Sesame Oil, Garlic, Ginger, Olive Oil, Cashew, Basil, Palm Sugar, Egg, Jasmine Rice, Bok Choy",
     "is_active": true,
-    "description": "<p>Juicy Philly-style cheesesteak made with seasoned beef, saut\u00e9ed peppers and onions, layered with melted cheddar and served in soft slider buns with garlic herb butter. Paired with crispy potato wedges and a side of house burger sauce.</p>",
+    "description": "A bold and aromatic Thai-inspired dish with juicy basil ground chicken stir-fried with garlic, chilies, and herbs. Served over jasmine rice with sesame-soy bok choy and topped with a fried egg, fresh basil, and sesame seeds \u2014 a spicy-sweet comfort bowl with a wholesome twist.",
     "product_id": null,
-    "allergens": "Wheat, Mustard, Egg, Milk, Soy",
+    "allergens": "Egg, Soy, Sesame, Tree Nuts, Wheat Gluten",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
     "spice_level": "Mild",
-    "protien": "45g",
-    "fats": "50g",
+    "protien": "40g",
+    "fats": "30g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
-    "tags": [],
+    "tags": [
+      {
+        "label": "ONE OF A KIND",
+        "textColor": "#ffffffff",
+        "bgColor": "#285c4d"
+      }
+    ],
     "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "HMML0214",
-    "protein_source": "Beef",
+    "cuisine": "ASIAN",
+    "sku": "IMML0013",
+    "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Philly Cheesesteak Sliders",
-    "side_title": "with Potato Wedges",
-    "sub_title": null,
-    "featured_text": null,
+    "short_title": "Thai Basil Chicken",
+    "side_title": "with Bok Choy",
+    "sub_title": "Bold heat balanced with big flavor",
+    "featured_text": "40g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -1023,30 +1133,30 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1375,
-        "product_id": 406,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003677_FLATLAY - PLATED - STYLED.png",
+        "id": 1612,
+        "product_id": 304,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415020_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1376,
-        "product_id": 406,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003681_CLOSEUP 1 - PROTEIN.png",
+        "id": 1613,
+        "product_id": 304,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415023_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1377,
-        "product_id": 406,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003684_CLOSEUP 2 - SIDES.png",
+        "id": 1614,
+        "product_id": 304,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415026_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1378,
-        "product_id": 406,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778003687_CLOSEUP 3 - VARIED.png",
+        "id": 1615,
+        "product_id": 304,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415028_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -1056,226 +1166,170 @@
     }
   },
   {
-    "id": 324,
-    "title": "Hibachi Salmon with Roasted Potato, Snowpeas and Roasted Cauliflower",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684714_FLATLAY - PLATED - STYLED.png",
-    "total_price": "18.00",
-    "kcal": "520Kcal",
-    "carbs": "53g",
-    "nutrition_per_serving": {
-      "calories": "520Kcal",
-      "carbs": "53g",
-      "fat": "14g",
-      "protein": "46g",
-      "sodium": "590mg",
-      "fiber": "9g",
-      "saturated_fat": null
-    },
-    "ingredients": "Potatoes, Olive Oil, Salt, Salmon, Paprika, Lemon Pepper Seasoning, Celery, Paprika, Black Pepper, Garlic Powder, Cayenne Pepper, Salt, Cauliflower, Snow Peas, Green Onions, Black Sesame Seeds, White Sesame Seeds",
-    "is_active": true,
-    "description": "<p>Hibachi-style salmon, served with golden roasted potatoes, tender snow peas, and caramelized cauliflower, finished with black and white sesame and fresh green onion.</p>",
-    "product_id": null,
-    "allergens": "Fish, Sesame",
-    "product_category": "PROTEINPLUS",
-    "price_after_discount": "18.00",
-    "category": "Protein Plus",
-    "spice_level": "Mild",
-    "protien": "46g",
-    "fats": "14g",
-    "total_price_weekly": "15.30",
-    "price_after_discount_weekly": "15.30",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "ASIAN",
-    "sku": "IMML0028",
-    "protein_source": "Seafood",
-    "sodium": "590mg",
-    "fiber": "9g",
-    "saturated_fat": null,
-    "short_title": "Hibachi Salmon",
-    "side_title": "with Roasted Potato, Snowpeas and Roasted Cauliflower",
-    "sub_title": "Sizzling takeout style flavor at home",
-    "featured_text": "46g protein",
-    "show_heating_details": true,
-    "collection_tags": [
-      "protein-plus"
-    ],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 14,
-    "formatted_collection_tags": [
-      {
-        "name": "protein-plus",
-        "title": "Protein Plus"
-      }
-    ],
-    "images": [
-      {
-        "id": 670,
-        "product_id": 324,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684714_FLATLAY - PLATED - STYLED.png",
-        "is_featured": true,
-        "sort_order": 0
-      },
-      {
-        "id": 671,
-        "product_id": 324,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684765_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 672,
-        "product_id": 324,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684772_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 673,
-        "product_id": 324,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684776_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 330,
-    "title": "Creamy Mushroom Chicken with Egg Noodles & Grilled Asparagus",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684613_FLATLAY - PLATED - STYLED.png",
-    "total_price": "18.00",
-    "kcal": "860Kcal",
-    "carbs": "85g",
-    "nutrition_per_serving": {
-      "calories": "860Kcal",
-      "carbs": "85g",
-      "fat": "29g",
-      "protein": "68g",
-      "sodium": "190mg",
-      "fiber": "6g",
-      "saturated_fat": null
-    },
-    "ingredients": "Mushrooms, Wheat Flour, Vegetable Broth, Cream, Whole Milk, Garlic, Butter, Olive Oil, Mustard, Lemon, Black Pepper, Seasoning, Boneless Chicken Breast, Egg Noodles, Asparagus, Parsley",
-    "is_active": true,
-    "description": "<p>Tender chicken with egg noodles in a rich mushroom cream sauce, served with grilled asparagus. An indulgent, modern comfort dish with refined flavors and effortless appeal.</p>",
-    "product_id": null,
-    "allergens": "Egg, Milk, Wheat, Mustard",
-    "product_category": "PROTEINPLUS",
-    "price_after_discount": "18.00",
-    "category": "Protein Plus",
-    "spice_level": "Mild",
-    "protien": "68g",
-    "fats": "29g",
-    "total_price_weekly": "15.30",
-    "price_after_discount_weekly": "15.30",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "ITALIAN",
-    "sku": "IMML0042",
-    "protein_source": "Chicken",
-    "sodium": "190mg",
-    "fiber": "6g",
-    "saturated_fat": null,
-    "short_title": "Creamy Mushroom Chicken",
-    "side_title": "with Egg Noodles & Grilled Asparagus",
-    "sub_title": "A velvety comfort dish done right",
-    "featured_text": "68g protein",
-    "show_heating_details": true,
-    "collection_tags": [
-      "protein-plus"
-    ],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 15,
-    "formatted_collection_tags": [
-      {
-        "name": "protein-plus",
-        "title": "Protein Plus"
-      }
-    ],
-    "images": [
-      {
-        "id": 829,
-        "product_id": 330,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684613_FLATLAY - PLATED - STYLED.png",
-        "is_featured": true,
-        "sort_order": 0
-      },
-      {
-        "id": 830,
-        "product_id": 330,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684624_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 831,
-        "product_id": 330,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684632_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 832,
-        "product_id": 330,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775684640_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 299,
-    "title": "Thai Chicken Red Curry",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775786241_FLATLAY - PLATED - STYLED.png",
+    "id": 6,
+    "title": "Kung Pao Chicken with Jasmine Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Kung%20Pao%20Chicken%20with%20Jasmine%20Rice.png",
     "total_price": "16.03",
-    "kcal": "585Kcal",
-    "carbs": "60g",
+    "kcal": "595Kcal",
+    "carbs": "71.5g",
     "nutrition_per_serving": {
-      "calories": "585Kcal",
-      "carbs": "60g",
-      "fat": "22.5g",
-      "protein": "49.5g",
+      "calories": "595Kcal",
+      "carbs": "71.5g",
+      "fat": "20g",
+      "protein": "34g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Chicken Breast, Vegetable Oil, Ginger, Garlic, Onion, Lemongrass, Kefir Lime Leaves, Coconut Milk, Red Curry Paste, Eggplant, Red Bell Pepper, Chicken Stock, Lime, Basmati Rice, Cinnamon, Cloves, Bay Leaves, Cilantro, Breadcrumbs, Baby Corn, Broccoli",
+    "ingredients": "Chicken Breast, Cornstarch, White Pepper, Dark Soy Sauce, Rice Vinegar, Oyster Sauce, Black Rice Vinegar, Sugar, Cashews, Green Onion, Dried Red Chili, White Onion, Green Bell Pepper, Sesame Oil, Water Chestnuts Broccoli, Green Beans, Kale",
     "is_active": true,
-    "description": "Tender chicken breast simmered in a rich Thai red curry with baby corn, broccoli, red bell pepper, and roasted eggplant. Served with fragrant cilantro rice, fresh ginger, and a lime wedge for a perfect balance of heat, sweetness, and tang.",
-    "product_id": null,
-    "allergens": "Soy, Wheat, Sulphites",
+    "description": "Kung Pao chicken served with a mix of Asian vegetables and fluffy jasmine rice, all topped with a rich Kung Pao sauce and a sprinkle of crunchy cashews. A harmonious blend of savory, spicy, and slightly sweet flavors.",
+    "product_id": "HMP00003",
+    "allergens": "Tree Nuts, Eggs, Wheat, Sulphites, Sesame",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
     "spice_level": "Medium",
-    "protien": "49.5g",
-    "fats": "22.5g",
+    "protien": "34g",
+    "fats": "20g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
     "cuisine": "ASIAN",
-    "sku": "HMML0094",
+    "sku": "HMML0116",
     "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Thai Chicken Red Curry",
-    "side_title": "with Cilantro Rice",
-    "sub_title": "Bright zesty flavor that wakes up every bite",
-    "featured_text": "49g protein",
+    "short_title": "Kung Pao Chicken",
+    "side_title": "with Jasmine Rice",
+    "sub_title": "Bold heat balanced with big flavor",
+    "featured_text": "34g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 14,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 126,
+        "product_id": 6,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Kung%20Pao%20Chicken%20with%20Jasmine%20Rice.png",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 96,
+    "title": "Chicken Tikka Masala with Naan & Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken%20Tikka%20Masala%20with%20Naan%20%26%20Rice.png",
+    "total_price": "16.03",
+    "kcal": "697Kcal",
+    "carbs": "64.2g",
+    "nutrition_per_serving": {
+      "calories": "697Kcal",
+      "carbs": "64.2g",
+      "fat": "21g",
+      "protein": "61g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Chicken Breast, Spices, Yogurt, Tomatoes, Onions, Coriander, Bell Peppers, Cashews, Basmati Rice, Naan, Butter",
+    "is_active": true,
+    "description": "Boneless chicken cooked in a decadent spiced tomato and onion based gravy served with naan and boiled basmati rice.",
+    "product_id": "HMP00096",
+    "allergens": "Milk, Tree Nuts, Wheat (Naan)",
+    "product_category": "MAIN",
+    "price_after_discount": "16.03",
+    "category": "Mains",
+    "spice_level": "Medium",
+    "protien": "61g",
+    "fats": "21g",
+    "total_price_weekly": "13.75",
+    "price_after_discount_weekly": "13.75",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "INDO-PAK",
+    "sku": "HMML0018",
+    "protein_source": "Chicken",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Chicken Tikka Masala",
+    "side_title": "with Naan & Rice",
+    "sub_title": "Creamy comfort with a satisfying finish",
+    "featured_text": "61g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 15,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 306,
+        "product_id": 96,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken%20Tikka%20Masala%20with%20Naan%20%26%20Rice.png",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 106,
+    "title": "Chicken Marsala",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken%20Marsala.jpg",
+    "total_price": "16.03",
+    "kcal": "503Kcal",
+    "carbs": "40g",
+    "nutrition_per_serving": {
+      "calories": "503Kcal",
+      "carbs": "40g",
+      "fat": "20g",
+      "protein": "45g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Chicken Breast, Flour, Butter, Heavy Cream, Milk, Mushrooms, Mozzarella Cheese, Potatoes, Green Beans, Eggs",
+    "is_active": true,
+    "description": "Our Chicken Marsala is a delightful twist on the traditional Italian scaloppini. This beloved dish has been a family favorite since the 19th century. We prepare it by cooking tender, boneless chicken breasts in a rich cream sauce with mushrooms. Served with mashed potatoes and saut\u00e9ed green beans, it's a timeless classic that continues to please.",
+    "product_id": "HMP00106",
+    "allergens": "Egg, Wheat, Milk, Soy",
+    "product_category": "MAIN",
+    "price_after_discount": "16.03",
+    "category": "Mains",
+    "spice_level": "Mild",
+    "protien": "45g",
+    "fats": "20g",
+    "total_price_weekly": "13.75",
+    "price_after_discount_weekly": "13.75",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "ITALIAN",
+    "sku": "HMML0156",
+    "protein_source": "Chicken",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Chicken Marsala",
+    "side_title": "with Mashed Potatoes & Green Beans",
+    "sub_title": "Creamy comfort with a satisfying finish",
+    "featured_text": "45g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
@@ -1286,32 +1340,11 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 959,
-        "product_id": 299,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775786241_FLATLAY - PLATED - STYLED.png",
+        "id": 105,
+        "product_id": 106,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken%20Marsala.jpg",
         "is_featured": true,
         "sort_order": 0
-      },
-      {
-        "id": 960,
-        "product_id": 299,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775786246_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 961,
-        "product_id": 299,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775786251_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 962,
-        "product_id": 299,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775786262_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
       }
     ],
     "_internal": {
@@ -1319,142 +1352,87 @@
     }
   },
   {
-    "id": 68,
-    "title": "Tandoori Fish with Rice and Mint Raita",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tandoori%20Fish%20with%20Rice%20and%20Mint%20Raita.jpg",
+    "id": 158,
+    "title": "Thai Chicken Curry Meatballs with Cilantro Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776478718_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "674Kcal",
-    "carbs": "73g",
+    "kcal": "451Kcal",
+    "carbs": "38.4g",
     "nutrition_per_serving": {
-      "calories": "674Kcal",
-      "carbs": "73g",
-      "fat": "24g",
-      "protein": "30g",
+      "calories": "451Kcal",
+      "carbs": "38.4g",
+      "fat": "14.6g",
+      "protein": "40.7g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Salmon, Ginger, Garlic, Lime, Olive Oil, Salt, Turmeric Powder, Garam Masala, Coriander Powder, Red Chili Powder, Basmati Rice, Chaat Masala, Yellow Bell Pepper, Red Bell Pepper, Yogurt, Mint, Coriander, Black Pepper, Red Onion, Pomegranate Seeds.",
+    "ingredients": "Ground Chicken, Vegetable Oil, Ginger, Garlic, Onion, Lemongrass, Kefir Lime Leaves, Coconut Milk, Green Curry Paste, Eggplant, Red Bell Pepper, Chicken Stock, Lime, Basmati Rice, Cinnamon, Cloves, Bay Leaves, Cilantro",
     "is_active": true,
-    "description": "Dive into a vibrant and flavourful meal with our tandoori fish, perfectly grilled to golden perfection. Marinated in a blend of aromatic tandoori spices, the fish is succulent and smoky with a tantalizing char. Served alongside a bed of fluffy, fragrant basmati rice, this dish is complemented by a refreshing mint raita and saut\u00e9ed mixed bell peppers.",
-    "product_id": "HMP00065",
-    "allergens": "Fish, Milk",
-    "product_category": "MAIN",
+    "description": "Indulge in our Thai Chicken Meatballs, bursting with flavour and perfectly paired with fragrant cilantro rice. The dish features juicy meatballs tossed with vibrant red roasted bell peppers and drizzled with a rich green curry sauce for an extra kick. Finished with a hint of ginger and a wedge of lime, this delightful meal offers a delicious fusion of Thai flavours that will transport your taste buds!",
+    "product_id": "HMM00158",
+    "allergens": "Soy, Sulphites",
+    "product_category": "HEALTHY",
     "price_after_discount": "16.03",
-    "category": "Mains",
-    "spice_level": "N/A",
-    "protien": "30g",
-    "fats": "24g",
+    "category": "Nutritionist Approved",
+    "spice_level": "Mild",
+    "protien": "40.7g",
+    "fats": "14.6g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMML0162",
-    "protein_source": "Seafood",
+    "cuisine": "ASIAN",
+    "sku": "HMML0172",
+    "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Tandoori Fish",
-    "side_title": "with Rice and Mint Raita",
-    "sub_title": "Indian spice with a smoky finish",
-    "featured_text": "38g protein",
+    "short_title": "Thai Chicken Curry Meatballs",
+    "side_title": "with Cilantro Rice",
+    "sub_title": "Bright zesty flavor that wakes up every bite",
+    "featured_text": "41g protein",
     "show_heating_details": true,
-    "collection_tags": [],
+    "collection_tags": [
+      "nutritionist-approved"
+    ],
     "meal_type": [
       "LUNCH-DINNER"
     ],
     "is_eligible_for_free_meals": false,
     "sort_order": 17,
-    "formatted_collection_tags": [],
-    "images": [
+    "formatted_collection_tags": [
       {
-        "id": 1199,
-        "product_id": 68,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tandoori%20Fish%20with%20Rice%20and%20Mint%20Raita.jpg",
-        "is_featured": true,
-        "sort_order": 0
+        "name": "nutritionist-approved",
+        "title": "Nutritionist Approved"
       }
     ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 72,
-    "title": "Greek Chicken Burger",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778177837_FLATLAY - PLATED - STYLED.png",
-    "total_price": "16.03",
-    "kcal": "610Kcal",
-    "carbs": "61g",
-    "nutrition_per_serving": {
-      "calories": "610Kcal",
-      "carbs": "61g",
-      "fat": "10g",
-      "protein": "36g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Ground chicken, Feta, Red Bell Peppers, Spinach, Onions, Lettuce, Pita, Dill, Parsley, Mint,Potatoes, Olive Oil, Oregano, Lemon juice, Capers, Roasted Red Peppers, Walnuts, Breadcrumbs, Pomegranate Molasses, Sumac",
-    "is_active": true,
-    "description": "Succulent greek style ground chicken burger served with pita bread, lettuce, red onions and muhammara served with a side of greek potato salad.",
-    "product_id": "HMP00069",
-    "allergens": "Wheat, Tree Nuts, Milk",
-    "product_category": "MAIN",
-    "price_after_discount": "16.03",
-    "category": "Mains",
-    "spice_level": "Mild",
-    "protien": "36g",
-    "fats": "10g",
-    "total_price_weekly": "13.75",
-    "price_after_discount_weekly": "13.75",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "HMML0122",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Greek Chicken Burger",
-    "side_title": "with Greek Potato Salad",
-    "sub_title": "Bright zesty flavor that wakes up every bite",
-    "featured_text": "36g protein",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 18,
-    "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1391,
-        "product_id": 72,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778177837_FLATLAY - PLATED - STYLED.png",
+        "id": 1065,
+        "product_id": 158,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776478718_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1392,
-        "product_id": 72,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778177840_CLOSEUP 1 - PROTEIN.png",
+        "id": 1066,
+        "product_id": 158,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776478721_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1393,
-        "product_id": 72,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778177842_CLOSEUP 2 - SIDES.png",
+        "id": 1067,
+        "product_id": 158,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776478729_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1394,
-        "product_id": 72,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1778177844_CLOSEUP 3 - VARIED.png",
+        "id": 1068,
+        "product_id": 158,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776478732_CLOSEUP 3 - VARIED.png",
         "is_featured": false,
         "sort_order": 3
       }
@@ -1464,61 +1442,965 @@
     }
   },
   {
-    "id": 70,
-    "title": "Grilled Chicken with Alfredo Pasta",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Grilled%20Chicken%20with%20Alfredo%20Pasta.jpg",
-    "total_price": "16.03",
-    "kcal": "920Kcal",
-    "carbs": "64g",
+    "id": 331,
+    "title": "Beef Stir Fry with Brown Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1767014907_Screen Shot 2025-12-29 at 8.27.48 AM.png",
+    "total_price": "18.00",
+    "kcal": "620Kcal",
+    "carbs": "62g",
     "nutrition_per_serving": {
-      "calories": "920Kcal",
-      "carbs": "64g",
-      "fat": "51g",
-      "protein": "51g",
+      "calories": "620Kcal",
+      "carbs": "62g",
+      "fat": "30g",
+      "protein": "29g",
+      "sodium": "800mg",
+      "fiber": "7g",
+      "saturated_fat": null
+    },
+    "ingredients": "Ground Beef, Zucchini, Mushrooms, Carrots, BBQ Sauce, Garlic, Mustard Flour, Soy Sauce, Maple Syrup, Garlic, Sesame Oil, Green Onion, Ginger, Brown Rice  Cauliflower, Olive Oil, Salt, Sesame Seeds",
+    "is_active": true,
+    "description": "<p>A fragrant ground beef stir fry layered with tender zucchini, carrots, and earthy mushrooms, accompanied by oven-roasted cauliflower and wholesome brown rice. Finished with sesame seeds and green onion.</p>",
+    "product_id": null,
+    "allergens": "Wheat, Soy, Sesame, Mustard, Sulphites",
+    "product_category": "PROTEINPLUS",
+    "price_after_discount": "18.00",
+    "category": "Protein Plus",
+    "spice_level": "Mild",
+    "protien": "29g",
+    "fats": "30g",
+    "total_price_weekly": "15.30",
+    "price_after_discount_weekly": "15.30",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "ASIAN",
+    "sku": "IMML0022",
+    "protein_source": "Beef",
+    "sodium": "800mg",
+    "fiber": "7g",
+    "saturated_fat": null,
+    "short_title": "Beef Stir Fry",
+    "side_title": "with Brown Rice",
+    "sub_title": "Smoky savory goodness done right",
+    "featured_text": "Wok classic",
+    "show_heating_details": true,
+    "collection_tags": [
+      "protein-plus"
+    ],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 18,
+    "formatted_collection_tags": [
+      {
+        "name": "protein-plus",
+        "title": "Protein Plus"
+      }
+    ],
+    "images": [
+      {
+        "id": 1553,
+        "product_id": 331,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1767014907_Screen Shot 2025-12-29 at 8.27.48 AM.png",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 332,
+    "title": "Slow Cooked Birria Beef with Wild Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1767018463_Screen Shot 2025-12-29 at 9.27.23 AM.png",
+    "total_price": "18.00",
+    "kcal": "890Kcal",
+    "carbs": "94g",
+    "nutrition_per_serving": {
+      "calories": "890Kcal",
+      "carbs": "94g",
+      "fat": "20g",
+      "protein": "92g",
+      "sodium": "1210mg",
+      "fiber": "7g",
+      "saturated_fat": null
+    },
+    "ingredients": "Wild Rice, Boneless Beef, Onion,  Garlic, Black Pepper, Salt, Corn,  Jalapenos, Cilantro, Lemon Juice, Lime Juice, Salt, Black Beans, Consomm\u00e9, Tomatoes, Green Onion, Salt, Tomato, Chili Pepper, Cider Vinegar, Sugar, Oregano, Allspice, Bay Leaf, Cinnamon",
+    "is_active": true,
+    "description": "<p>Tender birria beef infused with deep, smoky spices, paired with hearty wild rice. A gourmet take on a traditional favorite with rich, indulgent flavor.</p>",
+    "product_id": null,
+    "allergens": null,
+    "product_category": "PROTEINPLUS",
+    "price_after_discount": "18.00",
+    "category": "Protein Plus",
+    "spice_level": "Mild",
+    "protien": "92g",
+    "fats": "20g",
+    "total_price_weekly": "15.30",
+    "price_after_discount_weekly": "15.30",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "MEXICAN",
+    "sku": "IMML0039",
+    "protein_source": "Beef",
+    "sodium": "1210mg",
+    "fiber": "7g",
+    "saturated_fat": null,
+    "short_title": "Slow Cooked Birria Beef",
+    "side_title": "with Wild Rice",
+    "sub_title": "Smoky savory goodness done right",
+    "featured_text": "92g protein",
+    "show_heating_details": true,
+    "collection_tags": [
+      "protein-plus"
+    ],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 19,
+    "formatted_collection_tags": [
+      {
+        "name": "protein-plus",
+        "title": "Protein Plus"
+      }
+    ],
+    "images": [
+      {
+        "id": 1552,
+        "product_id": 332,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1767018463_Screen Shot 2025-12-29 at 9.27.23 AM.png",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 210,
+    "title": "Chicken Casserole",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken-Casserole-1-1.jpg",
+    "total_price": "16.03",
+    "kcal": "603Kcal",
+    "carbs": "85g",
+    "nutrition_per_serving": {
+      "calories": "603Kcal",
+      "carbs": "85g",
+      "fat": "12.6g",
+      "protein": "58g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Wheat Fettuccine Pasta (Flour, Water, Eggs), Garlic, Chicken Breast, Heavy Cream, Milk, Flour, Mustard Powder, Butter, Chicken Stock, Mozzarella Cheese, Parmesan Cheese, Seasonal Veggies (Broccoli, Green Beans, Carrots), Parsley, Rosemary, Thyme, Nutmeg, White Pepper, Italian Seasoning, Salt, Cayenne Pepper, Onion Powder, Garlic Powder, Oregano, Lemon Pepper, Adobo Seasoning, Cumin, All Spice, Celery Salt, Sazon",
+    "ingredients": "Chicken Breast, Butter, Flour, Garlic, Onion, Carrot, Corn, Peas, Broccoli, Heavy Cream, Milk, Thyme, Rosemary, Mozzerella Cheese, Cheddar Cheese, Potatoes, Paprika, Corn Flour, Vegetable Oil, Sunflower Seeds, Flax Seeds, Poppy Seeds, Sweet Potato, Cornstarch, Chia Seeds, Salt, Black Pepper",
     "is_active": true,
-    "description": "Grilled chicken served on top of creamy fettuccine alfredo pasta served with sauteed veggies.",
-    "product_id": "HMP00067",
-    "allergens": "Milk, Wheat, Eggs, Mustard, Sulphites",
+    "description": "A comforting and hearty dish featuring tender chunks of chicken breast paired with a medley of mixed vegetables in a flavorful casserole base. Served with perfectly roasted potatoes, and garnished with fresh parsley.",
+    "product_id": "HMML0193",
+    "allergens": "Milk, Wheat",
     "product_category": "MAIN",
     "price_after_discount": "16.03",
     "category": "Mains",
     "spice_level": "Mild",
-    "protien": "51g",
-    "fats": "51g",
+    "protien": "58g",
+    "fats": "12.6g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "ITALIAN",
-    "sku": "HMML0105",
+    "cuisine": "WESTERN",
+    "sku": "HMML0193",
     "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Grilled Chicken",
-    "side_title": "with Alfredo Pasta",
-    "sub_title": "Italian comfort with cheesy savory depth",
-    "featured_text": "51g protein",
+    "short_title": "Chicken Casserole",
+    "side_title": "with Roasted Potatoes",
+    "sub_title": "Creamy comfort with a satisfying finish",
+    "featured_text": "58g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
       "LUNCH-DINNER"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 19,
+    "sort_order": 20,
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 278,
-        "product_id": 70,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Grilled%20Chicken%20with%20Alfredo%20Pasta.jpg",
+        "id": 151,
+        "product_id": 210,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken-Casserole-1-1.jpg",
         "is_featured": true,
         "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 317,
+    "title": "Shrimp Karahi with Naan & Rice",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1755721220_Screen Shot 2025-08-20 at 4.18.48 PM.png",
+    "total_price": "16.03",
+    "kcal": "484Kcal",
+    "carbs": "55.4g",
+    "nutrition_per_serving": {
+      "calories": "484Kcal",
+      "carbs": "55.4g",
+      "fat": "22g",
+      "protein": "32g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Vegetable Oil, Garlic/Ginger Paste, Green Chili, Onion, Tomato, Black Pepper, Coriander, Cumin, Kashmiri Red Chili, Salt, Shrimp, Basmati Rice, Turmeric, Garam Masala, Chili Flakes, Kasoori Methi, Wheat Naan (Wheat Flour, Oil, Water, Salt)",
+    "is_active": true,
+    "description": "<p>Succulent shrimp simmered in a rich, spiced Karahi gravy, served with fragrant white rice and soft naan</p>",
+    "product_id": null,
+    "allergens": "Crustaceans and Molluscs, Wheat",
+    "product_category": "MAIN",
+    "price_after_discount": "16.03",
+    "category": "Mains",
+    "spice_level": "Medium",
+    "protien": "32g",
+    "fats": "22g",
+    "total_price_weekly": "13.75",
+    "price_after_discount_weekly": "13.75",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "INDO-PAK",
+    "sku": "HMML0022",
+    "protein_source": "Seafood",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Shrimp Karahi",
+    "side_title": "with Naan & Rice",
+    "sub_title": "Bold heat balanced with big flavor",
+    "featured_text": "32g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 21,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 205,
+        "product_id": 317,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1755721220_Screen Shot 2025-08-20 at 4.18.48 PM.png",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 373,
+    "title": "Jerk Chicken with Grilled Pineapple Salsa",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413621_FLATLAY - PLATED - STYLED.png",
+    "total_price": "18.00",
+    "kcal": "550Kcal",
+    "carbs": "85g",
+    "nutrition_per_serving": {
+      "calories": "550Kcal",
+      "carbs": "85g",
+      "fat": "45g",
+      "protein": "41g",
+      "sodium": "180mg",
+      "fiber": "9g",
+      "saturated_fat": null
+    },
+    "ingredients": "Basmati Rice, Cilantro,  Black Beans, Pineapple, Tomatoes, Jalapenos, Honey, Red Peppers, Onion, Green Onion, Lime, Garlic, Salt, Black Pepper, Cumin, Chicken Breast, Jerk Marinade, Tomato, Ketchup, Ginger, Soy Sauce, Scotch Bonnet, Lemon, Green Chilli, Worcestershire Sauce, Thyme, Browning Liquid",
+    "is_active": true,
+    "description": "<p>Smoky jerk-spiced chicken served with fragrant cilantro rice and a bright pineapple and black bean salsa. A vibrant, tropical balance of heat, sweetness, and zest in a refined, nourishing bowl.</p>",
+    "product_id": null,
+    "allergens": "Fish, Wheat, Soy, Sulphites, Wheat Gluten",
+    "product_category": "PROTEINPLUS",
+    "price_after_discount": "18.00",
+    "category": "Protein Plus",
+    "spice_level": "Mild",
+    "protien": "41g",
+    "fats": "45g",
+    "total_price_weekly": "15.30",
+    "price_after_discount_weekly": "15.30",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "WESTERN",
+    "sku": "IMML0032",
+    "protein_source": "Chicken",
+    "sodium": "180mg",
+    "fiber": "9g",
+    "saturated_fat": null,
+    "short_title": "Jerk Chicken",
+    "side_title": "with Grilled Pineapple Salsa",
+    "sub_title": "Smoky savory goodness done right",
+    "featured_text": "41g protein",
+    "show_heating_details": true,
+    "collection_tags": [
+      "protein-plus"
+    ],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 22,
+    "formatted_collection_tags": [
+      {
+        "name": "protein-plus",
+        "title": "Protein Plus"
+      }
+    ],
+    "images": [
+      {
+        "id": 1387,
+        "product_id": 373,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413621_FLATLAY - PLATED - STYLED.png",
+        "is_featured": true,
+        "sort_order": 0
+      },
+      {
+        "id": 1388,
+        "product_id": 373,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413623_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 1389,
+        "product_id": 373,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413625_CLOSEUP 2 - SIDES.png",
+        "is_featured": false,
+        "sort_order": 2
+      },
+      {
+        "id": 1390,
+        "product_id": 373,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776413627_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 99,
+    "title": "Reshmi Kebab with Rice and Chutney",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776408792_FLATLAY - PLATED - STYLED.png",
+    "total_price": "16.03",
+    "kcal": "720Kcal",
+    "carbs": "32g",
+    "nutrition_per_serving": {
+      "calories": "720Kcal",
+      "carbs": "32g",
+      "fat": "58g",
+      "protein": "45g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Ground Chicken, Baking Powder, White Pepper, Salt, Cumin, Coriander, Turmeric, Chicken Bouillon, Red Chili Powder, Kashmiri Chili, Garam Masala, Red Pepper Flakes, Kasuri Methi, Chickpea Flour, Basmati Rice, Lemon, Mint, Coriander, Bell Pepper, Green Beans, Peanuts, Curry Leaves, Mustard, Carrot",
+    "is_active": true,
+    "description": "Tender and juicy ground chicken kebabs, seasoned with classic South Asian spices, grilled to perfection. Served with flavorful Indian-style fried rice loaded with bell peppers, green peas, and carrots, and paired with a refreshing mint chutney for the perfect finishing touch.",
+    "product_id": "HMP00099",
+    "allergens": "Peanuts, Mustard",
+    "product_category": "MAIN",
+    "price_after_discount": "16.03",
+    "category": "Mains",
+    "spice_level": "Medium",
+    "protien": "45g",
+    "fats": "58g",
+    "total_price_weekly": "13.75",
+    "price_after_discount_weekly": "13.75",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "INDO-PAK",
+    "sku": "HMML0093",
+    "protein_source": "Chicken",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Reshmi Kebab",
+    "side_title": "with Rice and Chutney",
+    "sub_title": "Char grilled flavor with a keto edge",
+    "featured_text": "45g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 23,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 750,
+        "product_id": 99,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776408792_FLATLAY - PLATED - STYLED.png",
+        "is_featured": true,
+        "sort_order": 0
+      },
+      {
+        "id": 751,
+        "product_id": 99,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776408856_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 752,
+        "product_id": 99,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776408862_CLOSEUP 2 - SIDES.png",
+        "is_featured": false,
+        "sort_order": 2
+      },
+      {
+        "id": 753,
+        "product_id": 99,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776408866_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 306,
+    "title": "Mushroom Pepper Steak with Garlic Sesame Noodles",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Mushroom-Pepper-Steak-with-Garlic-Sesame-Noodles.jpg",
+    "total_price": "16.03",
+    "kcal": "798Kcal",
+    "carbs": "83.6g",
+    "nutrition_per_serving": {
+      "calories": "798Kcal",
+      "carbs": "83.6g",
+      "fat": "29.7g",
+      "protein": "46.8g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Beef, Soy Sauce, Broth, Cornstarch, Sugar, Tomatoes, Vegetable Oil, Assorted Bell Peppers, Onion, Garlic, Green Onion, Noodles, Oyster Sauce",
+    "is_active": true,
+    "description": "Tender, saut\u00e9ed beef paired with a vibrant mix of bell peppers, mushrooms, and onions. Served over garlic sesame noodles and garnished with fresh green onions.",
+    "product_id": null,
+    "allergens": "Soy, Sesame, Wheat Gluten",
+    "product_category": "MAIN",
+    "price_after_discount": "16.03",
+    "category": "Mains",
+    "spice_level": "Mild",
+    "protien": "46.8g",
+    "fats": "29.7g",
+    "total_price_weekly": "13.75",
+    "price_after_discount_weekly": "13.75",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "Drinks",
+    "sku": "HMML0200",
+    "protein_source": "Beef",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Mushroom Pepper Steak",
+    "side_title": "with Garlic Sesame Noodles",
+    "sub_title": "A sizzling noodle bowl with steakhouse swagger",
+    "featured_text": "46g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 24,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 323,
+        "product_id": 306,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Mushroom-Pepper-Steak-with-Garlic-Sesame-Noodles.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 401,
+    "title": "Herb Shrimp with Cajun Potato, Corn & Green Beans",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776797656_3-90.jpg",
+    "total_price": "18.00",
+    "kcal": "480Kcal",
+    "carbs": "49g",
+    "nutrition_per_serving": {
+      "calories": "480Kcal",
+      "carbs": "49g",
+      "fat": "14g",
+      "protein": "41g",
+      "sodium": "800mg",
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Shrimp, Butter, Garlic, Oregano, Potatoes, Olive Oil, Cajun Spice Blend (paprika, celery, garlic, basil, thyme, white pepper, red pepper, parsley, oregano)), Green Beans, Corn, Onion, Jalapenos, Cilantro, Lemon Juice, Lime Juice, Salt, Black Pepper",
+    "is_active": true,
+    "description": "<p>Garlic-and-herb grilled shrimp with Cajun-roasted potatoes, charred green beans, and zesty corn salsa. A bright, flavorful bowl with a touch of spice and fresh, aromatic notes.</p>",
+    "product_id": null,
+    "allergens": "Crustaceans And Mollusks",
+    "product_category": "PROTEINPLUS",
+    "price_after_discount": "18.00",
+    "category": "Protein Plus",
+    "spice_level": "Mild",
+    "protien": "41g",
+    "fats": "14g",
+    "total_price_weekly": "15.43",
+    "price_after_discount_weekly": "15.43",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "WESTERN",
+    "sku": "IMML0025",
+    "protein_source": "Seafood",
+    "sodium": "800mg",
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Herb Shrimp",
+    "side_title": "with Cajun Potato, Corn & Green Beans",
+    "sub_title": null,
+    "featured_text": "41g protein",
+    "show_heating_details": true,
+    "collection_tags": [
+      "protein-plus"
+    ],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 25,
+    "formatted_collection_tags": [
+      {
+        "name": "protein-plus",
+        "title": "Protein Plus"
+      }
+    ],
+    "images": [
+      {
+        "id": 1189,
+        "product_id": 401,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776797656_3-90.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 400,
+    "title": "Soy Lime Salmon with Edamame & Garlic Hash",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776796568_6-90.jpg",
+    "total_price": "18.00",
+    "kcal": "810Kcal",
+    "carbs": "61g",
+    "nutrition_per_serving": {
+      "calories": "810Kcal",
+      "carbs": "61g",
+      "fat": "46g",
+      "protein": "42g",
+      "sodium": "860mg",
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Potatoes, Olive Oil, Garlic, Onion Powder, Salt, Oregano, Basil, Salmon, Limes, Soy Sauce, Brown Sugar, Sesame Oil, Scallions, Chili Powder, Black Pepper, Carrots, Edamame, Orange Juice, Sesame Seeds, Agave Nectar, Lime Juice, Ginger, Cilantro, Black Pepper",
+    "is_active": true,
+    "description": "<p>Soy-lime glazed salmon layered over creamy garlic mash, paired with ginger-infused carrots and edamame, and finished with black and white sesame and fresh green onion.</p>",
+    "product_id": null,
+    "allergens": "Fish, Soy, Sesame, Sulfites",
+    "product_category": "PROTEINPLUS",
+    "price_after_discount": "18.00",
+    "category": "Protein Plus",
+    "spice_level": "Mild",
+    "protien": "42g",
+    "fats": "46g",
+    "total_price_weekly": "15.30",
+    "price_after_discount_weekly": "15.30",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "ASIAN",
+    "sku": "IMML0029",
+    "protein_source": "Seafood",
+    "sodium": "860mg",
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "with Edamame & Garlic Hash",
+    "side_title": "with Edamame & Garlic Hash",
+    "sub_title": null,
+    "featured_text": "42g protein",
+    "show_heating_details": true,
+    "collection_tags": [
+      "protein-plus"
+    ],
+    "meal_type": [
+      "LUNCH-DINNER"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 26,
+    "formatted_collection_tags": [
+      {
+        "name": "protein-plus",
+        "title": "Protein Plus"
+      }
+    ],
+    "images": [
+      {
+        "id": 1184,
+        "product_id": 400,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776796568_6-90.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 217,
+    "title": "Tiramisu Overnight Oats",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/healthy/Tiramisu%20overnight%20Oats.jpg",
+    "total_price": "8.50",
+    "kcal": "530Kcal",
+    "carbs": "61g",
+    "nutrition_per_serving": {
+      "calories": "530Kcal",
+      "carbs": "61g",
+      "fat": "26g",
+      "protein": "14.6g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Rolled Oats, Chia Seeds, Coffee, Almond Milk, Coconut Cream, Maple Syrup, Cocoa Powder, Vanilla Essence, Salt",
+    "is_active": true,
+    "description": "A decadent twist on the classic dessert, these Tiramisu Overnight Oats are rich and creamy, with layers of coffee-soaked oats, smooth coconut cream, and a hint of cocoa. Sweetened with maple syrup and infused with vanilla, it\u2019s a luxurious, indulgent breakfast that brings the flavors of tiramisu to your morning.",
+    "product_id": "HMML0200",
+    "allergens": "Tree Nuts",
+    "product_category": "ALL_DAY_BREAKFAST",
+    "price_after_discount": "8.50",
+    "category": "Breakfast",
+    "spice_level": "N/A",
+    "protien": "14.6g",
+    "fats": "26g",
+    "total_price_weekly": "8.25",
+    "price_after_discount_weekly": "8.25",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "Breakfast Jars",
+    "sku": "HMHL0200",
+    "protein_source": null,
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Tiramisu Overnight Oats",
+    "side_title": "with Coconut Cream",
+    "sub_title": "Creamy grab and go fuel for busy mornings",
+    "featured_text": "Breakfast favorite",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "BREAKFAST"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 28,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 421,
+        "product_id": 217,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/healthy/Tiramisu%20overnight%20Oats.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 218,
+    "title": "Mango Coconut Vanilla Chia Pudding",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/healthy/mango_coconut_pudding_2.png",
+    "total_price": "8.50",
+    "kcal": "374Kcal",
+    "carbs": "34.4g",
+    "nutrition_per_serving": {
+      "calories": "374Kcal",
+      "carbs": "34.4g",
+      "fat": "23.4g",
+      "protein": "10g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Whole Milk, Chia Seeds, Coconut Milk, Vanilla Essence, Mango Puree, Coconut Flakes",
+    "is_active": true,
+    "description": "Coconut Mango Vanilla Chia Pudding is a tropical, creamy treat made with chia seeds soaked in coconut milk and a touch of vanilla, creating a rich, smooth base. Topped with sweet, mango puree, it\u2019s a refreshing, naturally sweet dessert or breakfast that's both indulgent and nourishing.",
+    "product_id": "HMSN0001",
+    "allergens": "Milk",
+    "product_category": "ALL_DAY_BREAKFAST",
+    "price_after_discount": "8.50",
+    "category": "Breakfast",
+    "spice_level": "N/A",
+    "protien": "10g",
+    "fats": "23.4g",
+    "total_price_weekly": "8.25",
+    "price_after_discount_weekly": "8.25",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "Breakfast Jars",
+    "sku": "HMSN0001",
+    "protein_source": null,
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Mango Coconut Vanilla Chia Pudding",
+    "side_title": "with Chia Seeds",
+    "sub_title": "Creamy tropical sweetness with feel good ingredients",
+    "featured_text": "Plant powered",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "BREAKFAST"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 29,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 422,
+        "product_id": 218,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/healthy/mango_coconut_pudding_2.png",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 200,
+    "title": "Breakfast Burrito",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Breakfast%20Burrito.jpg",
+    "total_price": "15.30",
+    "kcal": "560Kcal",
+    "carbs": "72g",
+    "nutrition_per_serving": {
+      "calories": "560Kcal",
+      "carbs": "72g",
+      "fat": "28g",
+      "protein": "18g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Wheat Tortilla, Scrambled Eggs, Bell Peppers, Onions, Black Beans, Tomatoes, Cilantro, Cheddar Cheese, Baby Carrots",
+    "is_active": true,
+    "description": "Hearty breakfast burrito served with hot sauce and crunchy baby carrots.",
+    "product_id": "HMML0057",
+    "allergens": "Egg, Milk, Wheat",
+    "product_category": "ALL_DAY_BREAKFAST",
+    "price_after_discount": "15.30",
+    "category": "Breakfast",
+    "spice_level": "N/A",
+    "protien": "18g",
+    "fats": "28g",
+    "total_price_weekly": "13.25",
+    "price_after_discount_weekly": "13.25",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "MEXICAN",
+    "sku": "HMML0057",
+    "protein_source": "Egg",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Breakfast Burrito",
+    "side_title": "with Baby Carrots",
+    "sub_title": "Savory cheesy comfort made craveable",
+    "featured_text": "Breakfast Stable",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "BREAKFAST"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 30,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 234,
+        "product_id": 200,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Breakfast%20Burrito.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 197,
+    "title": "Chocolate & Nut Smoothie Bowl",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Chocolate%20%26%20Nut%20Smoothie%20Bowl.jpg",
+    "total_price": "18.33",
+    "kcal": "390Kcal",
+    "carbs": "16g",
+    "nutrition_per_serving": {
+      "calories": "390Kcal",
+      "carbs": "16g",
+      "fat": "13g",
+      "protein": "19g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Banana, Blueberry, Coconut Milk, Cauliflower, Peanut Butter, Protein Powder, Cacao Powder",
+    "is_active": true,
+    "description": "Chocolatey smoothie bowl served with peanut butter, almond granola and blueberries",
+    "product_id": "HMKT0025",
+    "allergens": "Peanuts, Tree Nuts",
+    "product_category": "ALL_DAY_BREAKFAST",
+    "price_after_discount": "18.33",
+    "category": "Breakfast",
+    "spice_level": "Mild",
+    "protien": "19g",
+    "fats": "13g",
+    "total_price_weekly": "15.75",
+    "price_after_discount_weekly": "15.75",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "Drinks",
+    "sku": "HMKT0025",
+    "protein_source": null,
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Chocolate & Nut Smoothie Bowl",
+    "side_title": "with Almond Granola",
+    "sub_title": "Chocolatey keto fuel that tastes like dessert",
+    "featured_text": "Sweet treat",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "BREAKFAST"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 31,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 423,
+        "product_id": 197,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Chocolate%20%26%20Nut%20Smoothie%20Bowl.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 199,
+    "title": "Cinnamon Roll Pancakes",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415583_FLATLAY - PLATED - STYLED.png",
+    "total_price": "15.30",
+    "kcal": "435Kcal",
+    "carbs": "70g",
+    "nutrition_per_serving": {
+      "calories": "435Kcal",
+      "carbs": "70g",
+      "fat": "15g",
+      "protein": "5.7g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Flour, Milk, Oil, Butter, Brown Sugar, Cinnamon, Powdered Sugar, Cream Cheese, Butter, Eggs, Vanilla",
+    "is_active": true,
+    "description": "Decadent fluffy pancakes flavored with cinnamon and sugar served with a cream cheese glaze.",
+    "product_id": "HMML0110",
+    "allergens": "Egg, Milk, Wheat",
+    "product_category": "ALL_DAY_BREAKFAST",
+    "price_after_discount": "15.30",
+    "category": "Breakfast",
+    "spice_level": "N/A",
+    "protien": "5.7g",
+    "fats": "15g",
+    "total_price_weekly": "13.25",
+    "price_after_discount_weekly": "13.25",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "BREAKFAST",
+    "sku": "HMML0110",
+    "protein_source": null,
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Cinnamon Roll Pancakes",
+    "side_title": "with Cream Cheese Glaze",
+    "sub_title": "Fluffy stack happiness in every bite",
+    "featured_text": "Morning favorite",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "BREAKFAST"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 32,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 864,
+        "product_id": 199,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415583_FLATLAY - PLATED - STYLED.png",
+        "is_featured": true,
+        "sort_order": 0
+      },
+      {
+        "id": 865,
+        "product_id": 199,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415586_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 866,
+        "product_id": 199,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415588_CLOSEUP 2 - SIDES.png",
+        "is_featured": false,
+        "sort_order": 2
+      },
+      {
+        "id": 867,
+        "product_id": 199,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776415589_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
       }
     ],
     "_internal": {
@@ -1572,7 +2454,7 @@
       "BREAKFAST"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 20,
+    "sort_order": 33,
     "formatted_collection_tags": [],
     "images": [
       {
@@ -1609,149 +2491,66 @@
     }
   },
   {
-    "id": 274,
-    "title": "Egg & Cheese Croissant with Hash",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776909454_FLATLAY - PLATED - STYLED.png",
-    "total_price": "16.03",
-    "kcal": "800Kcal",
-    "carbs": "51.4g",
+    "id": 111,
+    "title": "(Keto) Creamy Cajun Chicken over Zucchini Noodles",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Creamy%20Cajun%20Chicken%20over%20Zucchini%20Noodles.jpg",
+    "total_price": "18.33",
+    "kcal": "440Kcal",
+    "carbs": "12g",
     "nutrition_per_serving": {
-      "calories": "800Kcal",
-      "carbs": "51.4g",
-      "fat": "56g",
-      "protein": "22.6g",
+      "calories": "440Kcal",
+      "carbs": "12g",
+      "fat": "23g",
+      "protein": "48g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Croissant (Flour, Butter, Water), Cheddar Cheese, Eggs, Butter, Spinach, Salt, Black Pepper, Mayo, Chipotle Peppers, Lime",
+    "ingredients": "Chicken breast, Cajun seasoning, Heavy cream, Cream cheese, Garlic, Olive oil, Bell peppers, Onions, Zoodles",
     "is_active": true,
-    "description": "<p>Layers of fluffy eggs, melted cheese, and fresh spinach tucked into a buttery croissant, finished with a kick of chipotle mayo and a side of crispy hash. Breakfast with attitude.</p>",
-    "product_id": null,
-    "allergens": "Wheat, Egg, Milk, Mustard",
-    "product_category": "ALL_DAY_BREAKFAST",
-    "price_after_discount": "16.03",
-    "category": "Breakfast",
+    "description": "Cajun spiced chicken breast served with a creamy sauce on top of zoodles (zucchini noodles).",
+    "product_id": "HMP00111",
+    "allergens": "Milk",
+    "product_category": "KETO",
+    "price_after_discount": "18.33",
+    "category": "Keto",
     "spice_level": "Mild",
-    "protien": "22.6g",
-    "fats": "56g",
-    "total_price_weekly": "13.75",
-    "price_after_discount_weekly": "13.75",
+    "protien": "48g",
+    "fats": "23g",
+    "total_price_weekly": "15.75",
+    "price_after_discount_weekly": "15.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "HMML0108",
-    "protein_source": "Egg",
+    "cuisine": "ASIAN",
+    "sku": "HMKT0013",
+    "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Egg & Cheese Croissant",
-    "side_title": "with Hash",
-    "sub_title": "Buttery breakfast comfort with a bold kick",
-    "featured_text": "Morning favorite",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "BREAKFAST"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 21,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 1204,
-        "product_id": 274,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776909454_FLATLAY - PLATED - STYLED.png",
-        "is_featured": true,
-        "sort_order": 0
-      },
-      {
-        "id": 1205,
-        "product_id": 274,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776909458_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 1206,
-        "product_id": 274,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776909460_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 1207,
-        "product_id": 274,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776909462_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 328,
-    "title": "Pulled Beef with Mashed Potato & Roasted Green Beans",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1765991092_Screen Shot 2025-12-17 at 12.04.32 PM.png",
-    "total_price": "18.00",
-    "kcal": "620Kcal",
-    "carbs": "57g",
-    "nutrition_per_serving": {
-      "calories": "620Kcal",
-      "carbs": "57g",
-      "fat": "16g",
-      "protein": "66g",
-      "sodium": "550mg",
-      "fiber": "8g",
-      "saturated_fat": null
-    },
-    "ingredients": "Potatoes, Whole Milk, Cream, Butter, Salt, Garlic Powder, White Pepper, Boneless Beef, Onion, Yellow Peppers, Garlic, Ranch Dressing, Thyme, Rosemary, Black Pepper, Green Beans, Olive Oil",
-    "is_active": true,
-    "description": "<p>Tender pulled beef served with creamy mashed potatoes and roasted green beans. A comforting, hearty bowl with rich, satisfying flavors.</p>",
-    "product_id": null,
-    "allergens": "Milk, Egg",
-    "product_category": "PROTEINPLUS",
-    "price_after_discount": "18.00",
-    "category": "Protein Plus",
-    "spice_level": "Mild",
-    "protien": "66g",
-    "fats": "16g",
-    "total_price_weekly": "15.30",
-    "price_after_discount_weekly": "15.30",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "IMML0038",
-    "protein_source": "Beef",
-    "sodium": "550mg",
-    "fiber": "8g",
-    "saturated_fat": null,
-    "short_title": "Pulled Beef",
-    "side_title": "with Mashed Potato & Roasted Green Beans",
-    "sub_title": "Slow cooked comfort with rich hearty flavor",
-    "featured_text": "66g protein",
+    "short_title": "Creamy Cajun Chicken",
+    "side_title": "with Zucchini Noodles",
+    "sub_title": "Italian comfort with savory depth",
+    "featured_text": "48g protein",
     "show_heating_details": true,
     "collection_tags": [
-      "protein-plus"
+      "keto"
     ],
     "meal_type": [
       "LUNCH-DINNER"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 22,
+    "sort_order": 35,
     "formatted_collection_tags": [
       {
-        "name": "protein-plus",
-        "title": "Protein Plus"
+        "name": "keto",
+        "title": "Keto"
       }
     ],
     "images": [
       {
-        "id": 1633,
-        "product_id": 328,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1765991092_Screen Shot 2025-12-17 at 12.04.32 PM.png",
+        "id": 266,
+        "product_id": 111,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Creamy%20Cajun%20Chicken%20over%20Zucchini%20Noodles.jpg",
         "is_featured": true,
         "sort_order": 0
       }
@@ -1761,245 +2560,66 @@
     }
   },
   {
-    "id": 176,
-    "title": "Tres Leches Pancakes",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tres%20Leches%20Pancakes.jpg",
-    "total_price": "15.30",
-    "kcal": "440Kcal",
-    "carbs": "70g",
-    "nutrition_per_serving": {
-      "calories": "440Kcal",
-      "carbs": "70g",
-      "fat": "15g",
-      "protein": "5.7g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Buttermilk Pancakes, Cream Cheese, Heavy Cream, Vanilla Essence, Caramel, Strawberries, Eggs",
-    "is_active": true,
-    "description": "Savor the rich flavors of our Tres Leches Pancakes, topped with a smooth cream cheese glaze, a drizzle of sweet dulce de leche, and fresh strawberries. These fluffy pancakes bring together creamy and fruity goodness in every bite for a breakfast treat that feels like dessert!",
-    "product_id": "HMP00176",
-    "allergens": "Egg, Milk, Wheat",
-    "product_category": "ALL_DAY_BREAKFAST",
-    "price_after_discount": "15.30",
-    "category": "Breakfast",
-    "spice_level": "N/A",
-    "protien": "5.7g",
-    "fats": "15g",
-    "total_price_weekly": "13.25",
-    "price_after_discount_weekly": "13.25",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "BREAKFAST",
-    "sku": "HMML0166",
-    "protein_source": null,
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Tres Leches Pancakes",
-    "side_title": "with Dulce De Leche",
-    "sub_title": "Fluffy stack happiness in every bite",
-    "featured_text": "Morning favorite",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "BREAKFAST"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 23,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 369,
-        "product_id": 176,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tres%20Leches%20Pancakes.jpg",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 275,
-    "title": "Overnight Oats Mixed Berry",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/MixedBerryOvernightOats.jpg",
-    "total_price": "15.53",
-    "kcal": "0Kcal",
-    "carbs": "0g",
-    "nutrition_per_serving": {
-      "calories": "0Kcal",
-      "carbs": "0g",
-      "fat": "0g",
-      "protein": "0g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Milk, Oats, Honey, Chia Seeds, Yogurt, Blueberries, Blackberries, Raspberries, Maple Syrup, Vanilla Extract, Granola",
-    "is_active": true,
-    "description": "Start your fast off berryliciously with Overnight Oats Mixed Berry! This tasty treat contains all the nourishment you need for a powerful start to your fast \u2013 oats for sustained energy, and mixed berries for an antioxidant boost. So why hit snooze when you can get your morning oats with a burst of berry flavor?!",
-    "product_id": null,
-    "allergens": "Wheat, Milk, Tree Nuts",
-    "product_category": "ALL_DAY_BREAKFAST",
-    "price_after_discount": "15.53",
-    "category": "Breakfast",
-    "spice_level": "Medium",
-    "protien": "0g",
-    "fats": "0g",
-    "total_price_weekly": "15.53",
-    "price_after_discount_weekly": "15.53",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "Breakfast Jars",
-    "sku": "HMML0112",
-    "protein_source": null,
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Overnight Oats Mixed Berry",
-    "side_title": null,
-    "sub_title": "Creamy grab and go fuel for busy mornings",
-    "featured_text": "Morning favorite",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "BREAKFAST"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 24,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 370,
-        "product_id": 275,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/MixedBerryOvernightOats.jpg",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 94,
-    "title": "Breakfast Crunchwrap with Jalapeno Crema",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Breakfast%20Crunchwrap%20with%20Jalapeno%20Crema.webp",
-    "total_price": "15.30",
-    "kcal": "670Kcal",
-    "carbs": "52g",
-    "nutrition_per_serving": {
-      "calories": "670Kcal",
-      "carbs": "52g",
-      "fat": "40g",
-      "protein": "21g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Eggs, Wheat Tortilla, Beef Bacon, Hashbrown, Cheddar Cheese, Vegetable Oil, Cilantro, Sour Cream, Salt, Jalapeno, Lime",
-    "is_active": true,
-    "description": "<p>This hearty wrap is packed with fluffy scrambled eggs, melted cheddar cheese, crispy hashbrowns, and savory beef bacon. Each bite is wrapped in a warm tortilla and served with a side of zesty jalapeno crema for that perfect kick.</p>",
-    "product_id": "HMP00094",
-    "allergens": "Egg, Milk, Wheat",
-    "product_category": "ALL_DAY_BREAKFAST",
-    "price_after_discount": "15.30",
-    "category": "Breakfast",
-    "spice_level": "Mild",
-    "protien": "21g",
-    "fats": "40g",
-    "total_price_weekly": "13.25",
-    "price_after_discount_weekly": "13.25",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "HMML0146",
-    "protein_source": "Beef",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Breakfast Crunchwrap",
-    "side_title": "with Jalapeno Crema",
-    "sub_title": "Bold heat balanced with big flavor",
-    "featured_text": "Breakfast favorite",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "BREAKFAST"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 25,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 142,
-        "product_id": 94,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Breakfast%20Crunchwrap%20with%20Jalapeno%20Crema.webp",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 172,
-    "title": "Chicken Cacciatore with Mushroom Risotto",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken%20Cacciatore%20with%20Mushroom%20Risotto.JPG",
+    "id": 194,
+    "title": "High Protein Chicken Bolognese",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/High_Protein_Chicken_Bolognese.jpg",
     "total_price": "16.03",
-    "kcal": "635Kcal",
-    "carbs": "78g",
+    "kcal": "315Kcal",
+    "carbs": "15g",
     "nutrition_per_serving": {
-      "calories": "635Kcal",
-      "carbs": "78g",
-      "fat": "23.7g",
-      "protein": "34g",
+      "calories": "315Kcal",
+      "carbs": "15g",
+      "fat": "10.8g",
+      "protein": "42.4g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Chicken Breast, Vegetable Oil, Red &amp; Yellow Bell Peppers, Onion, Garlic, Green Beans, Black Olives, Tomatoes, Mushrooms, Arborio Rice, Butter, Heavy Cream, Thyme, Rosemary, Bay Leaves, Salt, Black Pepper",
+    "ingredients": "Ground Chicken, Vegetable Oil, Onion, Garlic, Tomato Paste, Crushed Tomatoes, Carrots, Thyme, Oregano, Salt, Black Pepper, Bay Leaves, Chicken Broth, Celery, Broccoli, Mozzarella Cheese, Shirataki Noodles, Red Pepper Flakes",
     "is_active": true,
-    "description": "Tender chicken simmered in a rich tomato sauce with peppers and herbs. It's served with a creamy mushroom risotto and tender green beans.",
-    "product_id": "HMP00172",
-    "allergens": "Milk",
-    "product_category": "MAIN",
+    "description": "Dive into our High Protein Chicken Bolognese, featuring tender chicken simmered in a rich, savoury sauce served over shirataki noodles. Accompanied by fresh broccoli and a sprinkle of cheese, this hearty dish is a deliciously satisfying way to enjoy a classic favourite while boosting your protein intake!",
+    "product_id": "HMML0171",
+    "allergens": "Milk, Sulphites",
+    "product_category": "HEALTHY",
     "price_after_discount": "16.03",
-    "category": "Mains",
+    "category": "Nutritionist Approved",
     "spice_level": "Mild",
-    "protien": "34g",
-    "fats": "23.7g",
+    "protien": "42.4g",
+    "fats": "10.8g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
     "cuisine": "ITALIAN",
-    "sku": "HMML0161",
+    "sku": "HMML0171",
     "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Chicken Cacciatore",
-    "side_title": "with Mushroom Risotto",
-    "sub_title": "Creamy comfort with a satisfying finish",
-    "featured_text": "34g protein",
+    "short_title": "High Protein Chicken Bolognese",
+    "side_title": "with Shirataki Noodles",
+    "sub_title": "Rich Italian comfort built for protein lovers",
+    "featured_text": "42g protein",
     "show_heating_details": true,
-    "collection_tags": [],
+    "collection_tags": [
+      "nutritionist-approved"
+    ],
     "meal_type": [
       "LUNCH-DINNER"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 26,
-    "formatted_collection_tags": [],
+    "sort_order": 36,
+    "formatted_collection_tags": [
+      {
+        "name": "nutritionist-approved",
+        "title": "Nutritionist Approved"
+      }
+    ],
     "images": [
       {
-        "id": 1540,
-        "product_id": 172,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Chicken%20Cacciatore%20with%20Mushroom%20Risotto.JPG",
+        "id": 115,
+        "product_id": 194,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/High_Protein_Chicken_Bolognese.jpg",
         "is_featured": true,
         "sort_order": 0
       }
@@ -2009,137 +2629,89 @@
     }
   },
   {
-    "id": 78,
-    "title": "Stuffed Peppers with Garlic Bread",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Stuffed%20Peppers%20with%20Garlic%20Bread.png",
+    "id": 160,
+    "title": "Sesame Chicken with Edamame Noodles",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479716_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
-    "kcal": "645Kcal",
-    "carbs": "52g",
+    "kcal": "447Kcal",
+    "carbs": "37.7g",
     "nutrition_per_serving": {
-      "calories": "645Kcal",
-      "carbs": "52g",
-      "fat": "30g",
-      "protein": "40.5g",
+      "calories": "447Kcal",
+      "carbs": "37.7g",
+      "fat": "15.4g",
+      "protein": "41.7g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Bell Peppers, Olive Oil, Onions, Tomatoes, Garlic, Ground Chicken, Mozzarella Cheese, Parsley, Celery, Italian Seasoning, Garlic Bread",
+    "ingredients": "Chicken Breast, Shirataki Noodles, Sesame Oil, Soy Sauce, Vegetable Oil, Edamame Beans, Peanut Butter, Sriracha, Black Pepper, Garlic, Ginger, Honey, Vegetable Oyster Sauce, Broccoli, Carrots, Green Beans",
     "is_active": true,
-    "description": "Assorted peppers stuffed with ground chicken, cheese, and marinara sauce served with a side of garlic bread.",
-    "product_id": "HMP00075",
-    "allergens": "Milk, Wheat",
-    "product_category": "MAIN",
+    "description": "Enjoy our flavorful Sesame Chicken, served over light and springy shirataki noodles. Tossed with tender saut\u00e9ed vegetables and edamame, this dish is finished with a rich hoisin sauce for a perfect balance of sweet and savoury. A satisfying and nutritious meal with a delicious Asian-inspired twist!",
+    "product_id": "HMM00160",
+    "allergens": "Peanuts, Sesame, Soy, Sulphites, Wheat Gluten",
+    "product_category": "HEALTHY",
     "price_after_discount": "16.03",
-    "category": "Mains",
+    "category": "Nutritionist Approved",
     "spice_level": "Mild",
-    "protien": "40.5g",
-    "fats": "30g",
+    "protien": "41.7g",
+    "fats": "15.4g",
     "total_price_weekly": "13.75",
     "price_after_discount_weekly": "13.75",
     "tags": [],
     "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "HMML0160",
+    "cuisine": "ASIAN",
+    "sku": "HMHL0218",
     "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Stuffed Peppers",
-    "side_title": "with Garlic Bread",
-    "sub_title": "A hearty comfort dish that feels like home",
-    "featured_text": "41g protein",
+    "short_title": "Sesame Chicken",
+    "side_title": "with Edamame Noodles",
+    "sub_title": "Sweet savory sesame flavor with satisfying bite",
+    "featured_text": "42g protein",
     "show_heating_details": true,
-    "collection_tags": [],
+    "collection_tags": [
+      "nutritionist-approved"
+    ],
     "meal_type": [
       "LUNCH-DINNER"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 27,
-    "formatted_collection_tags": [],
-    "images": [
+    "sort_order": 37,
+    "formatted_collection_tags": [
       {
-        "id": 281,
-        "product_id": 78,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Stuffed%20Peppers%20with%20Garlic%20Bread.png",
-        "is_featured": true,
-        "sort_order": 0
+        "name": "nutritionist-approved",
+        "title": "Nutritionist Approved"
       }
     ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 187,
-    "title": "Chicken Chipotle Burrito Wrap",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007076_FLATLAY - PLATED - STYLED.png",
-    "total_price": "6.00",
-    "kcal": "520Kcal",
-    "carbs": "59g",
-    "nutrition_per_serving": {
-      "calories": "520Kcal",
-      "carbs": "59g",
-      "fat": "14g",
-      "protein": "41g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Chicken, Salt, Spices, Dehydrated onion, Dehydrated roasted garlic, Canola oil, Parsley flakes, Paprika extract, Salt, Cumin, Paprika, Coriander, Peri Peri Spice, Burger Seasoning, Curry Powder, Onion Powder, garlic powder, Black Pepper, Tortillas, Red Peppers, Black Beans, Corn, Mayonnaise, Chipotles in Adobo, Limes, Mustard, Garlic, Salt, Lettuce",
-    "is_active": true,
-    "description": "Embark on a flavor-packed adventure with our Chipotle Chicken Wrap at Wholesome Cravings, where every bite promises a fusion of freshness and bold taste. Imagine juicy grilled chicken, expertly infused with our signature chipotle sauce, delicately nestled in a soft tortilla wrap.",
-    "product_id": "IMWR0098",
-    "allergens": "Egg, Wheat, Soy, Mustard",
-    "product_category": "SANDWICHES_AND_WRAPS",
-    "price_after_discount": "6.00",
-    "category": "Sandwiches & Wraps",
-    "spice_level": "N/A",
-    "protien": "41g",
-    "fats": "14g",
-    "total_price_weekly": "6.00",
-    "price_after_discount_weekly": "6.00",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "MEXICAN",
-    "sku": "HMWR0007",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Chicken Chipotle Burrito Wrap",
-    "side_title": "in To-Go Box",
-    "sub_title": null,
-    "featured_text": "41g protein",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "SANDWICH-WRAPS"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 28,
-    "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1558,
-        "product_id": 187,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007076_FLATLAY - PLATED - STYLED.png",
+        "id": 1617,
+        "product_id": 160,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479716_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1559,
-        "product_id": 187,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007081_CLOSEUP 1 - PROTEIN.png",
+        "id": 1618,
+        "product_id": 160,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479721_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1560,
-        "product_id": 187,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007084_CLOSEUP 3 - VARIED.png",
+        "id": 1619,
+        "product_id": 160,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479724_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
+      },
+      {
+        "id": 1620,
+        "product_id": 160,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776479727_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 3
       }
     ],
     "_internal": {
@@ -2193,199 +2765,13 @@
       "SANDWICH-WRAPS"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 29,
+    "sort_order": 38,
     "formatted_collection_tags": [],
     "images": [
       {
         "id": 1554,
         "product_id": 148,
         "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Gourmet%20Chicken%20Sandwich.png",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 185,
-    "title": "Tandoori Chicken Wrap",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/WC-Tandoori-Chicken-Wrap-v1-@3x.png",
-    "total_price": "6.00",
-    "kcal": "500Kcal",
-    "carbs": "56g",
-    "nutrition_per_serving": {
-      "calories": "500Kcal",
-      "carbs": "56g",
-      "fat": "22g",
-      "protein": "21g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Chicken, Tortillas, Red Cabbage, Red Peppers, Mayonnaise, Organic vinegar, Water, Salt, Calcium chloride, Organic mustard seed, Organic dehydrated onions, Organic dehydrated red bell peppers, Organic celery seed, Organic turmeric, Tomato paste, Mustard, Honey, Sriracha, Tandoori Spice, Mustard",
-    "is_active": true,
-    "description": "<p>Savor the bold flavors of our Tandoori Chicken Wrap! Tender chicken, spiced with tandoori seasoning, is wrapped in soft tortillas and paired with crunchy veggies and creamy sauce, for a flavorful, satisfying bite.</p>",
-    "product_id": "IMWR0088",
-    "allergens": "Milk, Egg, Wheat, Mustard",
-    "product_category": "SANDWICHES_AND_WRAPS",
-    "price_after_discount": "6.00",
-    "category": "Sandwiches & Wraps",
-    "spice_level": "N/A",
-    "protien": "21g",
-    "fats": "22g",
-    "total_price_weekly": "6.00",
-    "price_after_discount_weekly": "6.00",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMWR0008",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Tandoori Chicken Wrap",
-    "side_title": "in To-Go Box",
-    "sub_title": null,
-    "featured_text": "21g protein",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "SANDWICH-WRAPS"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 30,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 1585,
-        "product_id": 185,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/WC-Tandoori-Chicken-Wrap-v1-@3x.png",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 186,
-    "title": "Buffalo Chicken Wrap",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Buffalo-Chicken-Wrap.jpg",
-    "total_price": "6.00",
-    "kcal": "500Kcal",
-    "carbs": "42g",
-    "nutrition_per_serving": {
-      "calories": "500Kcal",
-      "carbs": "42g",
-      "fat": "22g",
-      "protein": "21g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Tortilla, Chicken Breast, Buffalo Sauce, Mixed Bell Peppers, Romaine Lettuce",
-    "is_active": true,
-    "description": "Spice up your meal with our Buffalo Chicken Wrap! Filled with tender chicken breast tossed in zesty buffalo sauce, crunchy mixed bell peppers, and fresh romaine lettuce, all wrapped in a soft tortilla. It's a tasty and satisfying wrap with a kick!",
-    "product_id": "IMWR0003",
-    "allergens": "Wheat, Sulphites",
-    "product_category": "SANDWICHES_AND_WRAPS",
-    "price_after_discount": "6.00",
-    "category": "Sandwiches & Wraps",
-    "spice_level": "N/A",
-    "protien": "21g",
-    "fats": "22g",
-    "total_price_weekly": "6.00",
-    "price_after_discount_weekly": "6.00",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "WESTERN",
-    "sku": "HMWR0004",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Buffalo Chicken Wrap",
-    "side_title": "in To-Go Box",
-    "sub_title": null,
-    "featured_text": "21g protein",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "SANDWICH-WRAPS"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 31,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 1557,
-        "product_id": 186,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Buffalo-Chicken-Wrap.jpg",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 34,
-    "title": "Tandoori Chicken Sandwich",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tandoori%20Chicken%20Sandwich_11zon.jpg",
-    "total_price": "6.00",
-    "kcal": "330Kcal",
-    "carbs": "27g",
-    "nutrition_per_serving": {
-      "calories": "330Kcal",
-      "carbs": "27g",
-      "fat": "15g",
-      "protein": "23g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Chicken Breast, Tandoori Seasoning, Mustard, Mayo, Relish, Ketchup, Romaine Lettuce, Wheat Bread",
-    "is_active": true,
-    "description": "Succulent pieces of tandoori chicken, marinated to perfection with a blend of aromatic spices, are lovingly nestled between slices of soft, freshly baked white bread. The tandoori marinade infuses the chicken with smoky and savory notes, ensuring each bite is a taste sensation.",
-    "product_id": "HMP00031",
-    "allergens": "Wheat, Egg, Mustard",
-    "product_category": "SANDWICHES_AND_WRAPS",
-    "price_after_discount": "6.00",
-    "category": "Sandwiches & Wraps",
-    "spice_level": "N/A",
-    "protien": "23g",
-    "fats": "15g",
-    "total_price_weekly": "6.00",
-    "price_after_discount_weekly": "6.00",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMSW0017",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Tandoori Chicken Sandwich",
-    "side_title": "in To-Go Box",
-    "sub_title": null,
-    "featured_text": "23g protein",
-    "show_heating_details": true,
-    "collection_tags": [],
-    "meal_type": [
-      "SANDWICH-WRAPS"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 32,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 1556,
-        "product_id": 34,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tandoori%20Chicken%20Sandwich_11zon.jpg",
         "is_featured": true,
         "sort_order": 0
       }
@@ -2441,7 +2827,7 @@
       "SANDWICH-WRAPS"
     ],
     "is_eligible_for_free_meals": false,
-    "sort_order": 33,
+    "sort_order": 39,
     "formatted_collection_tags": [],
     "images": [
       {
@@ -2457,446 +2843,259 @@
     }
   },
   {
-    "id": 277,
-    "title": "Karahi Gosht with Rice and Naan",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/KarahiGosht.jpg",
-    "total_price": "16.03",
-    "kcal": "0Kcal",
-    "carbs": "0g",
+    "id": 34,
+    "title": "Tandoori Chicken Sandwich",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tandoori%20Chicken%20Sandwich_11zon.jpg",
+    "total_price": "6.00",
+    "kcal": "330Kcal",
+    "carbs": "27g",
     "nutrition_per_serving": {
-      "calories": "0Kcal",
-      "carbs": "0g",
-      "fat": "0g",
-      "protein": "0g",
+      "calories": "330Kcal",
+      "carbs": "27g",
+      "fat": "15g",
+      "protein": "23g",
       "sodium": null,
       "fiber": null,
       "saturated_fat": null
     },
-    "ingredients": "Boneless Beef, Onion, Ginger, Garlic, Tomato, Yogurt, Garam Masala, Ghee, Kasoori Meethi, Karahi Masala, Vegetable Oil, Basmati Rice, Banana Peppers",
+    "ingredients": "Chicken Breast, Tandoori Seasoning, Mustard, Mayo, Relish, Ketchup, Romaine Lettuce, Wheat Bread",
     "is_active": true,
-    "description": "Boneless beef and peppers cooked with spices in a onion and tomato gravy served with rice and naan, garnished with sliced ginger and parsley.",
-    "product_id": "HMML0081",
-    "allergens": "Milk, Wheat",
-    "product_category": "MAIN",
-    "price_after_discount": "16.03",
-    "category": "Mains",
-    "spice_level": "Spicy",
-    "protien": "0g",
-    "fats": "0g",
-    "total_price_weekly": "13.75",
-    "price_after_discount_weekly": "13.75",
+    "description": "Succulent pieces of tandoori chicken, marinated to perfection with a blend of aromatic spices, are lovingly nestled between slices of soft, freshly baked white bread. The tandoori marinade infuses the chicken with smoky and savory notes, ensuring each bite is a taste sensation.",
+    "product_id": "HMP00031",
+    "allergens": "Wheat, Egg, Mustard",
+    "product_category": "SANDWICHES_AND_WRAPS",
+    "price_after_discount": "6.00",
+    "category": "Sandwiches & Wraps",
+    "spice_level": "N/A",
+    "protien": "23g",
+    "fats": "15g",
+    "total_price_weekly": "6.00",
+    "price_after_discount_weekly": "6.00",
     "tags": [],
     "is_featured": false,
     "cuisine": "INDO-PAK",
-    "sku": "HMML0081",
-    "protein_source": "Beef",
+    "sku": "HMSW0017",
+    "protein_source": "Chicken",
     "sodium": null,
     "fiber": null,
     "saturated_fat": null,
-    "short_title": "Karahi Gosht",
-    "side_title": "with Rice and Naan",
-    "sub_title": "A fiery, oily gravy with bold, rustic spice",
-    "featured_text": "Spice forward",
+    "short_title": "Tandoori Chicken Sandwich",
+    "side_title": "in To-Go Box",
+    "sub_title": null,
+    "featured_text": "23g protein",
     "show_heating_details": true,
     "collection_tags": [],
     "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 35,
-    "formatted_collection_tags": [],
-    "images": [
-      {
-        "id": 4,
-        "product_id": 277,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/KarahiGosht.jpg",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 323,
-    "title": "Grilled Shrimp with Smoked Tomato Couscous and Zucchini",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1765984291_Screen Shot 2025-12-17 at 10.10.53 AM.png",
-    "total_price": "18.00",
-    "kcal": "480Kcal",
-    "carbs": "56g",
-    "nutrition_per_serving": {
-      "calories": "480Kcal",
-      "carbs": "56g",
-      "fat": "8g",
-      "protein": "48g",
-      "sodium": "900mg",
-      "fiber": "7g",
-      "saturated_fat": null
-    },
-    "ingredients": "Couscous,Tomatoes, Parsley, Butter, Olive Oil, Salt, Cloves, Black Pepper, Oregano, Shrimp, Paprika, Lemon Pepper Seasoning, Old Bay Seasoning, Black Pepper, Garlic Powder, Cayenne Pepper, Zucchini",
-    "is_active": true,
-    "description": "<p>Perfectly grilled shrimp served atop buttery tomato couscous and zucchini, finished with fresh parsley.</p>",
-    "product_id": null,
-    "allergens": "Milk, Crustaceans and Molluscs",
-    "product_category": "PROTEINPLUS",
-    "price_after_discount": "18.00",
-    "category": "Protein Plus",
-    "spice_level": "Medium",
-    "protien": "48g",
-    "fats": "8g",
-    "total_price_weekly": "15.30",
-    "price_after_discount_weekly": "15.30",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "MIDDLE EASTERN",
-    "sku": "IMML0024",
-    "protein_source": "Seafood",
-    "sodium": "900mg",
-    "fiber": "7g",
-    "saturated_fat": null,
-    "short_title": "Grilled Shrimp",
-    "side_title": "with Smoked Tomato Couscous and Zucchini",
-    "sub_title": "Fresh coastal flavors with a smoky finish",
-    "featured_text": "48g protein",
-    "show_heating_details": true,
-    "collection_tags": [
-      "protein-plus"
-    ],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 36,
-    "formatted_collection_tags": [
-      {
-        "name": "protein-plus",
-        "title": "Protein Plus"
-      }
-    ],
-    "images": [
-      {
-        "id": 550,
-        "product_id": 323,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1765984291_Screen Shot 2025-12-17 at 10.10.53 AM.png",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 325,
-    "title": "Chicken Fajita Bowl",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775685078_FLATLAY - PLATED - STYLED.png",
-    "total_price": "18.00",
-    "kcal": "660Kcal",
-    "carbs": "37g",
-    "nutrition_per_serving": {
-      "calories": "660Kcal",
-      "carbs": "37g",
-      "fat": "31g",
-      "protein": "62g",
-      "sodium": "680mg",
-      "fiber": "10g",
-      "saturated_fat": null
-    },
-    "ingredients": "Black Beans, Corn, Feta, Cider Vinegar, Red Peppers, Olive Oil, Scallions, Sugar, Cilantro, Boneless Chicken Breast, Fajita Seasoning, Tomatoes, Mushrooms, Garlic, Parsley, Black Pepper, Parsley",
-    "is_active": true,
-    "description": "<p>Tender fajita-spiced chicken with smoky saut\u00e9ed vegetables, served over a vibrant black bean and corn salsa. A bold, wholesome bowl with rich flavor and effortless balance.</p>",
-    "product_id": null,
-    "allergens": null,
-    "product_category": "PROTEINPLUS",
-    "price_after_discount": "18.00",
-    "category": "Protein Plus",
-    "spice_level": "Mild",
-    "protien": "62g",
-    "fats": "31g",
-    "total_price_weekly": "15.30",
-    "price_after_discount_weekly": "15.30",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "MEXICAN",
-    "sku": "IMML0031",
-    "protein_source": "Chicken",
-    "sodium": "680mg",
-    "fiber": "10g",
-    "saturated_fat": null,
-    "short_title": "Chicken Fajita Bowl",
-    "side_title": "with Black Bean & Corn Salsa",
-    "sub_title": "Smoky savory goodness done right",
-    "featured_text": "62g protein",
-    "show_heating_details": true,
-    "collection_tags": [
-      "protein-plus"
-    ],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 37,
-    "formatted_collection_tags": [
-      {
-        "name": "protein-plus",
-        "title": "Protein Plus"
-      }
-    ],
-    "images": [
-      {
-        "id": 777,
-        "product_id": 325,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775685078_FLATLAY - PLATED - STYLED.png",
-        "is_featured": true,
-        "sort_order": 0
-      },
-      {
-        "id": 778,
-        "product_id": 325,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775685086_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 779,
-        "product_id": 325,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775685095_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 780,
-        "product_id": 325,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1775685102_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 80,
-    "title": "(Keto) Butter Chicken with Cauliflower Pilaf",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776223333_FLATLAY - PLATED - STYLED.png",
-    "total_price": "18.33",
-    "kcal": "510Kcal",
-    "carbs": "18g",
-    "nutrition_per_serving": {
-      "calories": "510Kcal",
-      "carbs": "18g",
-      "fat": "29g",
-      "protein": "45g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Chicken Breast, Onion, Olive Oil, Bay Leaves, Cloves, Black Cardamom, Green Cardamom, Mace, Cinnamon, Cumin, Fennel, Garlic, Ginger, Green Chili, Fenugreek, Melon Seeds, Tomatoes, Coriander, Cashews, Black Pepper, Red Chili Powder, Heavy Cream, Cauliflower, Turmeric, Green Peas, Curry Leaves",
-    "is_active": true,
-    "description": "Creamy butter chicken served with cauliflower and green pea pilaf.",
-    "product_id": "HMP00077",
-    "allergens": "Milk, Tree Nuts",
-    "product_category": "KETO",
-    "price_after_discount": "18.33",
-    "category": "Keto",
-    "spice_level": "Mild",
-    "protien": "45g",
-    "fats": "29g",
-    "total_price_weekly": "15.75",
-    "price_after_discount_weekly": "15.75",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "INDO-PAK",
-    "sku": "HMKT0030",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Butter Chicken",
-    "side_title": "with Cauliflower Pilaf",
-    "sub_title": "Bold heat balanced with big flavor",
-    "featured_text": "45g protein",
-    "show_heating_details": true,
-    "collection_tags": [
-      "keto"
-    ],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 38,
-    "formatted_collection_tags": [
-      {
-        "name": "keto",
-        "title": "Keto"
-      }
-    ],
-    "images": [
-      {
-        "id": 900,
-        "product_id": 80,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776223333_FLATLAY - PLATED - STYLED.png",
-        "is_featured": true,
-        "sort_order": 0
-      },
-      {
-        "id": 901,
-        "product_id": 80,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776223336_CLOSEUP 1 - PROTEIN.png",
-        "is_featured": false,
-        "sort_order": 1
-      },
-      {
-        "id": 902,
-        "product_id": 80,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776223340_CLOSEUP 2 - SIDES.png",
-        "is_featured": false,
-        "sort_order": 2
-      },
-      {
-        "id": 903,
-        "product_id": 80,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1776223381_CLOSEUP 3 - VARIED.png",
-        "is_featured": false,
-        "sort_order": 3
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 81,
-    "title": "(Keto) Mongolian Beef with Broccoli and Sesame Garlic Zoodles",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Mongolian%20Beef%20with%20Broccoli%20and%20Sesame%20Garlic%20Zoodles.jpg",
-    "total_price": "18.33",
-    "kcal": "556Kcal",
-    "carbs": "37.8g",
-    "nutrition_per_serving": {
-      "calories": "556Kcal",
-      "carbs": "37.8g",
-      "fat": "23.9g",
-      "protein": "37.5g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Boneless Beef, Soy Sauce, Broccoli, Olive Oil, Zucchini, Sesame, Garlic/ Ginger",
-    "is_active": true,
-    "description": "Mongolian spiced stir fry with thin slices of steak and crispy broccoli served over a bed of garlic sesame zoodles, garnished with green onion.",
-    "product_id": "HMP00078",
-    "allergens": "Sesame, Soy, Wheat Gluten",
-    "product_category": "KETO",
-    "price_after_discount": "18.33",
-    "category": "Keto",
-    "spice_level": "Mild",
-    "protien": "37.5g",
-    "fats": "23.9g",
-    "total_price_weekly": "15.75",
-    "price_after_discount_weekly": "15.75",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "ASIAN",
-    "sku": "HMKT0038",
-    "protein_source": "Beef",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Mongolian Beef",
-    "side_title": "with Broccoli and Sesame Garlic Zoodles",
-    "sub_title": "Wholesome ingredients with big flavor payoff",
-    "featured_text": "38g protein",
-    "show_heating_details": true,
-    "collection_tags": [
-      "keto"
-    ],
-    "meal_type": [
-      "LUNCH-DINNER"
-    ],
-    "is_eligible_for_free_meals": false,
-    "sort_order": 39,
-    "formatted_collection_tags": [
-      {
-        "name": "keto",
-        "title": "Keto"
-      }
-    ],
-    "images": [
-      {
-        "id": 260,
-        "product_id": 81,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Mongolian%20Beef%20with%20Broccoli%20and%20Sesame%20Garlic%20Zoodles.jpg",
-        "is_featured": true,
-        "sort_order": 0
-      }
-    ],
-    "_internal": {
-      "busy": false
-    }
-  },
-  {
-    "id": 82,
-    "title": "(Keto) Kabsa Chicken with Cauliflower Rice",
-    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Kabsa%20Chicken%20with%20Cauliflower%20Rice.png",
-    "total_price": "18.33",
-    "kcal": "491Kcal",
-    "carbs": "16.8g",
-    "nutrition_per_serving": {
-      "calories": "491Kcal",
-      "carbs": "16.8g",
-      "fat": "30.6g",
-      "protein": "34g",
-      "sodium": null,
-      "fiber": null,
-      "saturated_fat": null
-    },
-    "ingredients": "Quarter Chicken Leg, Cauliflower, Olive Oil, Onions, Garlic, Yogurt, Almonds, Raisins, parsley, Assorted Seasoning, Tomato Paste",
-    "is_active": true,
-    "description": "Quarter chicken leg served with kabsa cauliflower pilaf and garlic yogurt sauce, garnished with almonds and raisins.",
-    "product_id": "HMP00079",
-    "allergens": "Milk, Tree Nuts",
-    "product_category": "KETO",
-    "price_after_discount": "18.33",
-    "category": "Keto",
-    "spice_level": "Mild",
-    "protien": "34g",
-    "fats": "30.6g",
-    "total_price_weekly": "15.75",
-    "price_after_discount_weekly": "15.75",
-    "tags": [],
-    "is_featured": false,
-    "cuisine": "MIDDLE EASTERN",
-    "sku": "HMKT0037",
-    "protein_source": "Chicken",
-    "sodium": null,
-    "fiber": null,
-    "saturated_fat": null,
-    "short_title": "Kabsa Chicken",
-    "side_title": "with Cauliflower Rice",
-    "sub_title": "Creamy comfort with a satisfying finish",
-    "featured_text": "34g protein",
-    "show_heating_details": true,
-    "collection_tags": [
-      "keto"
-    ],
-    "meal_type": [
-      "LUNCH-DINNER"
+      "SANDWICH-WRAPS"
     ],
     "is_eligible_for_free_meals": false,
     "sort_order": 40,
-    "formatted_collection_tags": [
-      {
-        "name": "keto",
-        "title": "Keto"
-      }
-    ],
+    "formatted_collection_tags": [],
     "images": [
       {
-        "id": 61,
-        "product_id": 82,
-        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/%28Keto%29%20Kabsa%20Chicken%20with%20Cauliflower%20Rice.png",
+        "id": 1556,
+        "product_id": 34,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Tandoori%20Chicken%20Sandwich_11zon.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 186,
+    "title": "Buffalo Chicken Wrap",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Buffalo-Chicken-Wrap.jpg",
+    "total_price": "6.00",
+    "kcal": "500Kcal",
+    "carbs": "42g",
+    "nutrition_per_serving": {
+      "calories": "500Kcal",
+      "carbs": "42g",
+      "fat": "22g",
+      "protein": "21g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Tortilla, Chicken Breast, Buffalo Sauce, Mixed Bell Peppers, Romaine Lettuce",
+    "is_active": true,
+    "description": "Spice up your meal with our Buffalo Chicken Wrap! Filled with tender chicken breast tossed in zesty buffalo sauce, crunchy mixed bell peppers, and fresh romaine lettuce, all wrapped in a soft tortilla. It's a tasty and satisfying wrap with a kick!",
+    "product_id": "IMWR0003",
+    "allergens": "Wheat, Sulphites",
+    "product_category": "SANDWICHES_AND_WRAPS",
+    "price_after_discount": "6.00",
+    "category": "Sandwiches & Wraps",
+    "spice_level": "N/A",
+    "protien": "21g",
+    "fats": "22g",
+    "total_price_weekly": "6.00",
+    "price_after_discount_weekly": "6.00",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "WESTERN",
+    "sku": "HMWR0004",
+    "protein_source": "Chicken",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Buffalo Chicken Wrap",
+    "side_title": "in To-Go Box",
+    "sub_title": null,
+    "featured_text": "21g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "SANDWICH-WRAPS"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 41,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 1557,
+        "product_id": 186,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/Buffalo-Chicken-Wrap.jpg",
+        "is_featured": true,
+        "sort_order": 0
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 187,
+    "title": "Chicken Chipotle Burrito Wrap",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007076_FLATLAY - PLATED - STYLED.png",
+    "total_price": "6.00",
+    "kcal": "520Kcal",
+    "carbs": "59g",
+    "nutrition_per_serving": {
+      "calories": "520Kcal",
+      "carbs": "59g",
+      "fat": "14g",
+      "protein": "41g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Chicken, Salt, Spices, Dehydrated onion, Dehydrated roasted garlic, Canola oil, Parsley flakes, Paprika extract, Salt, Cumin, Paprika, Coriander, Peri Peri Spice, Burger Seasoning, Curry Powder, Onion Powder, garlic powder, Black Pepper, Tortillas, Red Peppers, Black Beans, Corn, Mayonnaise, Chipotles in Adobo, Limes, Mustard, Garlic, Salt, Lettuce",
+    "is_active": true,
+    "description": "Embark on a flavor-packed adventure with our Chipotle Chicken Wrap at Wholesome Cravings, where every bite promises a fusion of freshness and bold taste. Imagine juicy grilled chicken, expertly infused with our signature chipotle sauce, delicately nestled in a soft tortilla wrap.",
+    "product_id": "IMWR0098",
+    "allergens": "Egg, Wheat, Soy, Mustard",
+    "product_category": "SANDWICHES_AND_WRAPS",
+    "price_after_discount": "6.00",
+    "category": "Sandwiches & Wraps",
+    "spice_level": "N/A",
+    "protien": "41g",
+    "fats": "14g",
+    "total_price_weekly": "6.00",
+    "price_after_discount_weekly": "6.00",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "MEXICAN",
+    "sku": "HMWR0007",
+    "protein_source": "Chicken",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Chicken Chipotle Burrito Wrap",
+    "side_title": "in To-Go Box",
+    "sub_title": null,
+    "featured_text": "41g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "SANDWICH-WRAPS"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 42,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 1558,
+        "product_id": 187,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007076_FLATLAY - PLATED - STYLED.png",
+        "is_featured": true,
+        "sort_order": 0
+      },
+      {
+        "id": 1559,
+        "product_id": 187,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007081_CLOSEUP 1 - PROTEIN.png",
+        "is_featured": false,
+        "sort_order": 1
+      },
+      {
+        "id": 1560,
+        "product_id": 187,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1780007084_CLOSEUP 3 - VARIED.png",
+        "is_featured": false,
+        "sort_order": 2
+      }
+    ],
+    "_internal": {
+      "busy": false
+    }
+  },
+  {
+    "id": 185,
+    "title": "Tandoori Chicken Wrap",
+    "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/WC-Tandoori-Chicken-Wrap-v1-@3x.png",
+    "total_price": "6.00",
+    "kcal": "500Kcal",
+    "carbs": "56g",
+    "nutrition_per_serving": {
+      "calories": "500Kcal",
+      "carbs": "56g",
+      "fat": "22g",
+      "protein": "21g",
+      "sodium": null,
+      "fiber": null,
+      "saturated_fat": null
+    },
+    "ingredients": "Chicken, Tortillas, Red Cabbage, Red Peppers, Mayonnaise, Organic vinegar, Water, Salt, Calcium chloride, Organic mustard seed, Organic dehydrated onions, Organic dehydrated red bell peppers, Organic celery seed, Organic turmeric, Tomato paste, Mustard, Honey, Sriracha, Tandoori Spice, Mustard",
+    "is_active": true,
+    "description": "<p>Savor the bold flavors of our Tandoori Chicken Wrap! Tender chicken, spiced with tandoori seasoning, is wrapped in soft tortillas and paired with crunchy veggies and creamy sauce, for a flavorful, satisfying bite.</p>",
+    "product_id": "IMWR0088",
+    "allergens": "Milk, Egg, Wheat, Mustard",
+    "product_category": "SANDWICHES_AND_WRAPS",
+    "price_after_discount": "6.00",
+    "category": "Sandwiches & Wraps",
+    "spice_level": "N/A",
+    "protien": "21g",
+    "fats": "22g",
+    "total_price_weekly": "6.00",
+    "price_after_discount_weekly": "6.00",
+    "tags": [],
+    "is_featured": false,
+    "cuisine": "INDO-PAK",
+    "sku": "HMWR0008",
+    "protein_source": "Chicken",
+    "sodium": null,
+    "fiber": null,
+    "saturated_fat": null,
+    "short_title": "Tandoori Chicken Wrap",
+    "side_title": "in To-Go Box",
+    "sub_title": null,
+    "featured_text": "21g protein",
+    "show_heating_details": true,
+    "collection_tags": [],
+    "meal_type": [
+      "SANDWICH-WRAPS"
+    ],
+    "is_eligible_for_free_meals": false,
+    "sort_order": 43,
+    "formatted_collection_tags": [],
+    "images": [
+      {
+        "id": 1585,
+        "product_id": 185,
+        "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/WC-Tandoori-Chicken-Wrap-v1-@3x.png",
         "is_featured": true,
         "sort_order": 0
       }
