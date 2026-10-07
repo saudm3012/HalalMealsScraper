@@ -4,28 +4,28 @@
 
 | # | Meal | Calories | Protein (g) | Protein/Calorie |
 |---|------|----------|-------------|------------------|
-| 1 | High Protein Chicken Bolognese | 315 | 42 | 0.135 |
-| 2 | Shish Taouk with Turkish Ezme | 542 | 60 | 0.111 |
-| 3 | (Keto) Creamy Cajun Chicken over Zucchini Noodles | 440 | 48 | 0.109 |
-| 4 | Slow Cooked Birria Beef with Wild Rice | 890 | 92 | 0.103 |
-| 5 | Beef Kafta with Pilaf | 700 | 70 | 0.100 |
-| 6 | Chicken Casserole | 603 | 58 | 0.096 |
-| 7 | Red Curry Chicken with Shiritake Noodles & Sauteed Broccolini | 670 | 63 | 0.094 |
-| 8 | Sesame Chicken with Edamame Noodles | 447 | 42 | 0.093 |
-| 9 | Peri Peri Chicken with Portuguese Rice | 734 | 67 | 0.091 |
-| 10 | Thai Chicken Curry Meatballs with Cilantro Rice | 451 | 41 | 0.090 |
+| 1 | (Keto) Beef Lasagna | 510 | 52 | 0.102 |
+| 2 | Chicken and Sweet Potato Shephards Pie | 446 | 44 | 0.099 |
+| 3 | (Keto) Grilled Chicken Fajita Pasta | 450 | 42 | 0.093 |
+| 4 | (Keto) Khao Soi | 443 | 40 | 0.090 |
+| 5 | Creamy Tuscan Chicken with Egg Noodles and Roasted Green Beans | 860 | 69 | 0.080 |
+| 6 | Honey Mustard Chicken Sandwich | 430 | 34 | 0.079 |
+| 7 | Jalapeno Popper Chicken with Potatoes & Veggies | 621 | 49 | 0.079 |
+| 8 | Mango Habanero Chicken Burrito Bowl | 710 | 56 | 0.079 |
+| 9 | Chicken Chipotle Burrito Wrap | 520 | 41 | 0.079 |
+| 10 | Lomo Saltado with Cilantro Rice and Aji Verde | 770 | 60 | 0.078 |
 
 ## Best for muscle gain (highest protein, reasonable calories)
 
 | # | Meal | Calories | Protein (g) |
 |---|------|----------|-------------|
-| 1 | Slow Cooked Birria Beef with Wild Rice | 890 | 92 |
-| 2 | Beef Kafta with Pilaf | 700 | 70 |
-| 3 | Peri Peri Chicken with Portuguese Rice | 734 | 67 |
-| 4 | Red Curry Chicken with Shiritake Noodles & Sauteed Broccolini | 670 | 63 |
-| 5 | Chicken Tikka Masala with Naan & Rice | 697 | 61 |
-| 6 | Shish Taouk with Turkish Ezme | 542 | 60 |
-| 7 | Chicken Casserole | 603 | 58 |
-| 8 | Karachi Beef Biryani | 860 | 52 |
-| 9 | (Keto) Creamy Cajun Chicken over Zucchini Noodles | 440 | 48 |
-| 10 | Chicken Alfredo Lasagna | 790 | 47 |
+| 1 | Creamy Tuscan Chicken with Egg Noodles and Roasted Green Beans | 860 | 69 |
+| 2 | Lomo Saltado with Cilantro Rice and Aji Verde | 770 | 60 |
+| 3 | Jerk Chicken with Rice | 830 | 60 |
+| 4 | Mango Habanero Chicken Burrito Bowl | 710 | 56 |
+| 5 | (Keto) Beef Lasagna | 510 | 52 |
+| 6 | Jalapeno Popper Chicken with Potatoes & Veggies | 621 | 49 |
+| 7 | Grilled Chicken Fajita Pasta | 628 | 48 |
+| 8 | Thai Cashew Chicken Stir Fry | 602 | 47 |
+| 9 | Authentic Nihari with Naan | 800 | 45 |
+| 10 | Miso Chicken with Sweet Potato and Asparagus | 580 | 45 |

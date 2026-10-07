@@ -1,44 +1,40 @@
-#  | Meal                                                          | Calories | Carbs | Fat   | Protein | Spice  | Sodium | Fiber
----+---------------------------------------------------------------+----------+-------+-------+---------+--------+--------+------
-1  | Beef Kafta with Pilaf                                         | 700Kcal  | 60g   | 20g   | 70g     | Mild   | -      | -    
-2  | Salmon and Shrimp Hibachi Fried Rice                          | 372Kcal  | 22g   | 16g   | 30.5g   | Medium | -      | -    
-3  | Spiced Thyme Chicken with Sweet Potato Mash & Sauteed Kale    | 700Kcal  | 63g   | 33g   | 40g     | Mild   | 710mg  | 10g  
-4  | Nashville-Style Hot Chicken Sandwich                          | 887Kcal  | 84g   | 40.5g | 44g     | Spicy  | -      | -    
-5  | Red Curry Chicken with Shiritake Noodles & Sauteed Broccolini | 670Kcal  | 32g   | 30g   | 63g     | Mild   | 810mg  | 11g  
-6  | Shish Taouk with Turkish Ezme                                 | 542Kcal  | 52g   | 10.5g | 60g     | Medium | -      | -    
-7  | Cajun Chicken Bowl                                            | 450Kcal  | 67g   | 8g    | 32g     | Mild   | 630mg  | 9g   
-8  | Jerk Chicken Pasta                                            | 800Kcal  | 78g   | 34.5g | 46g     | Mild   | -      | -    
-9  | Peri Peri Chicken with Portuguese Rice                        | 734Kcal  | 40g   | 33g   | 67g     | Medium | -      | -    
-10 | Creamy Cajun Chicken Pasta                                    | 956Kcal  | 92g   | 32g   | 75g     | N/A    | -      | -    
-11 | (Keto) Colombian Steak with Tomatoes & Onions                 | 469Kcal  | 13.2g | 30g   | 40g     | Mild   | -      | -    
-12 | Karachi Beef Biryani                                          | 860Kcal  | 72g   | 40g   | 52g     | Medium | -      | -    
-13 | Chicken Alfredo Lasagna                                       | 790Kcal  | 78g   | 35g   | 47g     | Mild   | -      | -    
-14 | Thai Basil Chicken with Bok Choy                              | 647Kcal  | 54g   | 30g   | 40g     | Mild   | -      | -    
-15 | Kung Pao Chicken with Jasmine Rice                            | 595Kcal  | 71.5g | 20g   | 34g     | Medium | -      | -    
-16 | Chicken Tikka Masala with Naan & Rice                         | 697Kcal  | 64.2g | 21g   | 61g     | Medium | -      | -    
-17 | Chicken Marsala                                               | 503Kcal  | 40g   | 20g   | 45g     | Mild   | -      | -    
-18 | Thai Chicken Curry Meatballs with Cilantro Rice               | 451Kcal  | 38.4g | 14.6g | 40.7g   | Mild   | -      | -    
-19 | Beef Stir Fry with Brown Rice                                 | 620Kcal  | 62g   | 30g   | 29g     | Mild   | 800mg  | 7g   
-20 | Slow Cooked Birria Beef with Wild Rice                        | 890Kcal  | 94g   | 20g   | 92g     | Mild   | 1210mg | 7g   
-21 | Chicken Casserole                                             | 603Kcal  | 85g   | 12.6g | 58g     | Mild   | -      | -    
-22 | Shrimp Karahi with Naan & Rice                                | 484Kcal  | 55.4g | 22g   | 32g     | Medium | -      | -    
-23 | Jerk Chicken with Grilled Pineapple Salsa                     | 550Kcal  | 85g   | 45g   | 41g     | Mild   | 180mg  | 9g   
-24 | Reshmi Kebab with Rice and Chutney                            | 720Kcal  | 32g   | 58g   | 45g     | Medium | -      | -    
-25 | Mushroom Pepper Steak with Garlic Sesame Noodles              | 798Kcal  | 83.6g | 29.7g | 46.8g   | Mild   | -      | -    
-26 | Herb Shrimp with Cajun Potato, Corn & Green Beans             | 480Kcal  | 49g   | 14g   | 41g     | Mild   | 800mg  | -    
-27 | Soy Lime Salmon with Edamame & Garlic Hash                    | 810Kcal  | 61g   | 46g   | 42g     | Mild   | 860mg  | -    
-28 | Tiramisu Overnight Oats                                       | 530Kcal  | 61g   | 26g   | 14.6g   | N/A    | -      | -    
-29 | Mango Coconut Vanilla Chia Pudding                            | 374Kcal  | 34.4g | 23.4g | 10g     | N/A    | -      | -    
-30 | Breakfast Burrito                                             | 560Kcal  | 72g   | 28g   | 18g     | N/A    | -      | -    
-31 | Chocolate & Nut Smoothie Bowl                                 | 390Kcal  | 16g   | 13g   | 19g     | Mild   | -      | -    
-32 | Cinnamon Roll Pancakes                                        | 435Kcal  | 70g   | 15g   | 5.7g    | N/A    | -      | -    
-33 | Acai Bowl                                                     | 387Kcal  | 60g   | 16.8g | 5.8g    | N/A    | -      | -    
-34 | (Keto) Creamy Cajun Chicken over Zucchini Noodles             | 440Kcal  | 12g   | 23g   | 48g     | Mild   | -      | -    
-35 | High Protein Chicken Bolognese                                | 315Kcal  | 15g   | 10.8g | 42.4g   | Mild   | -      | -    
-36 | Sesame Chicken with Edamame Noodles                           | 447Kcal  | 37.7g | 15.4g | 41.7g   | Mild   | -      | -    
-37 | Gourmet Chicken Sandwich                                      | 420Kcal  | 29g   | 22g   | 27g     | N/A    | -      | -    
-38 | Honey Mustard Chicken Sandwich                                | 430Kcal  | 44g   | 14g   | 34g     | N/A    | -      | -    
-39 | Tandoori Chicken Sandwich                                     | 330Kcal  | 27g   | 15g   | 23g     | N/A    | -      | -    
-40 | Buffalo Chicken Wrap                                          | 500Kcal  | 42g   | 22g   | 21g     | N/A    | -      | -    
-41 | Chicken Chipotle Burrito Wrap                                 | 520Kcal  | 59g   | 14g   | 41g     | N/A    | -      | -    
-42 | Tandoori Chicken Wrap                                         | 500Kcal  | 56g   | 22g   | 21g     | N/A    | -      | -    
+#  | Meal                                                                  | Calories | Carbs | Fat   | Protein | Spice  | Sodium | Fiber
+---+-----------------------------------------------------------------------+----------+-------+-------+---------+--------+--------+------
+1  | Authentic Nihari with Naan                                            | 800Kcal  | 70g   | 35g   | 45g     | Spicy  | -      | -    
+2  | Thai Cashew Chicken Stir Fry                                          | 602Kcal  | 64g   | 20g   | 46.6g   | Medium | -      | -    
+3  | Grilled Chicken Fajita Pasta                                          | 628Kcal  | 56g   | 21.7g | 48g     | Medium | -      | -    
+4  | Bulgogi Chicken with Brown Rice                                       | 550Kcal  | 50g   | 24g   | 30g     | Mild   | -      | -    
+5  | Chicken and Sweet Potato Shephards Pie                                | 446Kcal  | 54.2g | 5.5g  | 44.1g   | Mild   | -      | -    
+6  | Harissa Chicken Meatballs with Roasted Sweet Potato and Tatziki Sauce | 590Kcal  | 69g   | 21g   | 32g     | Medium | 460mg  | 12g  
+7  | Mango Habanero Chicken Burrito Bowl                                   | 710Kcal  | 93g   | 12g   | 56g     | Medium | 720mg  | 11g  
+8  | Lomo Saltado with Cilantro Rice and Aji Verde                         | 770Kcal  | 69g   | 28g   | 60g     | Mild   | 570mg  | 4g   
+9  | Honey Mustard Chicken Sandwich                                        | 430Kcal  | 44g   | 14g   | 34g     | N/A    | -      | -    
+10 | Beef Bibimbap                                                         | 940Kcal  | 63g   | 56g   | 47g     | Medium | 980mg  | 7g   
+11 | Tandoori Chicken Sandwich                                             | 330Kcal  | 27g   | 15g   | 23g     | N/A    | -      | -    
+12 | Buffalo Chicken Wrap                                                  | 500Kcal  | 42g   | 22g   | 21g     | N/A    | -      | -    
+13 | Chicken Chipotle Burrito Wrap                                         | 520Kcal  | 59g   | 14g   | 41g     | N/A    | -      | -    
+14 | Tandoori Chicken Wrap                                                 | 500Kcal  | 56g   | 22g   | 21g     | N/A    | -      | -    
+15 | Kebab Biryani                                                         | 680Kcal  | 75g   | 22g   | 40g     | Medium | -      | -    
+16 | Khao Soi                                                              | 666Kcal  | 55g   | 39g   | 30g     | Medium | -      | -    
+17 | Beef Lasagna with Garlic Bread                                        | 602Kcal  | 45g   | 32g   | 44g     | Mild   | -      | -    
+18 | Jerk Chicken with Rice                                                | 830Kcal  | 62g   | 38g   | 60g     | Medium | -      | -    
+19 | High Protein Breakfast Bowl                                           | 714Kcal  | 64g   | 43g   | 34.3g   | Mild   | -      | -    
+20 | Tiramisu French Toast with Coffee Mascarpone Cream                    | 364Kcal  | 29g   | 11.7g | 21g     | Mild   | -      | -    
+21 | Acai Bowl                                                             | 387Kcal  | 60g   | 16.8g | 5.8g    | N/A    | -      | -    
+22 | Moroccan Chicken with Couscous                                        | 609Kcal  | 66.9g | 19.2g | 43g     | Mild   | -      | -    
+23 | (Keto) Grilled Chicken Fajita Pasta                                   | 450Kcal  | 19.6g | 22.7g | 41.9g   | Medium | -      | -    
+24 | (Keto) Beef Lasagna                                                   | 510Kcal  | 19g   | 20g   | 52g     | Mild   | -      | -    
+25 | (Keto) Khao Soi                                                       | 443Kcal  | 16.1g | 24.2g | 39.8g   | Medium | -      | -    
+26 | Gourmet Chicken Sandwich                                              | 420Kcal  | 29g   | 22g   | 27g     | N/A    | -      | -    
+27 | Mexican Fish Tacos                                                    | 780Kcal  | 63.5g | 42g   | 36g     | Mild   | -      | -    
+28 | Red Velvet Pancakes with Maple Cream Cheese                           | 425Kcal  | 35g   | 27.7g | 9g      | N/A    | -      | -    
+29 | Apple Crumble Overnight Oats                                          | 800Kcal  | 105g  | 36g   | 22g     | N/A    | -      | -    
+30 | Creamy Tuscan Chicken with Egg Noodles and Roasted Green Beans        | 860Kcal  | 66g   | 35g   | 69g     | Mild   | 680mg  | 7g   
+31 | Miso Chicken with Sweet Potato and Asparagus                          | 580Kcal  | 52g   | 23g   | 45g     | Mild   | 1200mg | 10g  
+32 | Pesto Shrimp with Quinoa                                              | 500Kcal  | 57g   | 17g   | 37g     | Mild   | 1074mg | 9g   
+33 | Nashville Fish with Mashed Potatoes                                   | 590Kcal  | 56g   | 24g   | 40g     | Medium | 1050mg | 8g   
+34 | Southern Chili with Cornbread                                         | 463Kcal  | 53g   | 22.5g | 17g     | Medium | -      | -    
+35 | Cuban Beef Picadillo with Green Beans                                 | 520Kcal  | 38g   | 28g   | 28g     | Medium | -      | -    
+36 | Jalapeno Popper Chicken with Potatoes & Veggies                       | 621Kcal  | 66g   | 17g   | 49g     | Medium | -      | -    
+37 | Chicken Manchurian with Garlic Sesame Noodles                         | 765Kcal  | 80g   | 30.5g | 42g     | Medium | -      | -    
+38 | Chicken Jalfrezi                                                      | 0Kcal    | 0g    | 0g    | 0g      | Spicy  | -      | -    
