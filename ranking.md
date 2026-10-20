@@ -10,7 +10,7 @@
 | 4 | Teppanyaki Chicken with Fried Brown Rice | 404 | 38 | 0.094 |
 | 5 | Sesame Chicken with Edamame Noodles | 447 | 42 | 0.093 |
 | 6 | Garlic Butter Steak Bites with Roasted Broccoli and Mixed Quinoa | 640 | 56 | 0.087 |
-| 7 | Rosemary Lemon Chicken | 510 | 43 | 0.084 |
+| 7 | Rosemary Lemon Chicken with Mashed Potatoes | 510 | 43 | 0.084 |
 | 8 | Honey Mustard Chicken Sandwich | 430 | 34 | 0.079 |
 | 9 | Chicken Chipotle Burrito Wrap | 520 | 41 | 0.079 |
 | 10 | Marry Me Chicken Orzo Bake with Broccoli | 649 | 51 | 0.079 |

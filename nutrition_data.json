@@ -651,7 +651,7 @@
   },
   {
     "id": 296,
-    "title": "Rosemary Lemon Chicken",
+    "title": "Rosemary Lemon Chicken with Mashed Potatoes",
     "image": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1777581088_FLATLAY - PLATED - STYLED.png",
     "total_price": "16.03",
     "kcal": "510Kcal",
@@ -700,28 +700,28 @@
     "formatted_collection_tags": [],
     "images": [
       {
-        "id": 1574,
+        "id": 1634,
         "product_id": 296,
         "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1777581088_FLATLAY - PLATED - STYLED.png",
         "is_featured": true,
         "sort_order": 0
       },
       {
-        "id": 1575,
+        "id": 1635,
         "product_id": 296,
         "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1777581095_CLOSEUP 1 - PROTEIN.png",
         "is_featured": false,
         "sort_order": 1
       },
       {
-        "id": 1576,
+        "id": 1636,
         "product_id": 296,
         "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1777581098_CLOSEUP 2 - SIDES.png",
         "is_featured": false,
         "sort_order": 2
       },
       {
-        "id": 1577,
+        "id": 1637,
         "product_id": 296,
         "image_url": "https://halalmeals-products.s3.ca-central-1.amazonaws.com/1777581100_CLOSEUP 3 - VARIED.png",
         "is_featured": false,

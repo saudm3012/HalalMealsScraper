@@ -8,7 +8,7 @@
 6  | Peri-Peri Chicken with Roasted Sweet Potato and Corn Salsa                       | 530Kcal  | 60g    | 10g    | 53g     | Mild   | 600mg  | 9g   
 7  | Garlic Butter Steak Bites with Roasted Broccoli and Mixed Quinoa                 | 640Kcal  | 53g    | 22g    | 56g     | Mild   | 500mg  | -    
 8  | Lemon Chicken Piccata                                                            | 945Kcal  | 105g   | 32g    | 58g     | Mild   | -      | -    
-9  | Rosemary Lemon Chicken                                                           | 510Kcal  | 35g    | 21g    | 43g     | Mild   | -      | -    
+9  | Rosemary Lemon Chicken with Mashed Potatoes                                      | 510Kcal  | 35g    | 21g    | 43g     | Mild   | -      | -    
 10 | Sesame Chicken with Edamame Noodles                                              | 447Kcal  | 37.7g  | 15.4g  | 41.7g   | Mild   | -      | -    
 11 | Teppanyaki Chicken with Fried Brown Rice                                         | 404Kcal  | 19g    | 14.4g  | 38g     | Mild   | -      | -    
 12 | (Keto) Mac and Cheese with Cajun Chicken                                         | 550Kcal  | 12g    | 32g    | 54g     | Mild   | -      | -    
